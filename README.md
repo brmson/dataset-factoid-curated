@@ -37,8 +37,9 @@ Using This Dataset
 
 As explained above, please use the test dataset only for performance
 reporting, not for question-by-question error analysis.  Always report
-the version of the dataset you used - this is v1; other branches may
-contain better, work-in-progress datasets.
+the version of the dataset you used - this is the DEV dataset, please
+consider using a stable version (from the master branch) instead,
+or make sure to also include the particular commit id.
 
 To make results comparable, it is not enough to use the same set of
 questions, we should strive to use the same or similar knowledge bases
