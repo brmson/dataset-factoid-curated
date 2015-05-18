@@ -1,0 +1,682 @@
+201	factoid	What was the name of the first Russian astronaut to do a spacewalk? 	Leonov
+202	factoid	Where is Belize located? 	Central\s+American?|Guatemala.*border|Gulf of Honduras.*border(ed)?|Honduras.*next\s+door|Yucatan|boundaries.*Guatemalan?|neighbou?ring Guatemala|on a line between Colombia and the US
+203	factoid	How much folic acid should an expectant mother get daily? 	400\s+micrograms
+204	factoid	What type of bridge is the Golden Gate Bridge? 	sling|supported\s+by\s+cables|suspension
+205	factoid	What is the population of the Bahamas? 	245,?000
+206	factoid	How far away is the moon? 	221,?000\s+miles|238,?855\s+miles|2[345]0,?000\s+miles
+207	factoid	What is Francis Scott Key best known for? 	Star\s*-?\s*Spangled\s+Banner|national\s+anthem|ode\s+to\s+Old\s+Glory
+208	factoid	What state has the most Indians? 	California
+209	factoid	Who invented the paper clip? 	Johan\s+Vaaler'?s?
+210	factoid	How many dogs pull a sled in the Iditarod? 	((11)|(12)|(13)|(14)|(15)|(16)|(17)|(18))((\s*to\s+20)|(\s+dogs?))|least\s+five|nine\s+dogs?
+211	factoid	Where did bocci originate? 	ancient\s+Roman
+212	factoid	Who invented the electric guitar? 	Adolph\s+Rickenbacker
+213	factoid	Name a flying mammal. 	bats?
+214	factoid	How many hexagons are on a soccer ball? 	20
+215	factoid	Who is the leader of India? 	Gandhi|Nehru|Rao|Singh
+216	factoid	What is the primary language of the Philippines? 	English
+217	factoid	What is the habitat of the chickadee? 	(mature|aging)\s+trees?|hardwood|meadows?|oak\s+trees?|scrub|woods
+218	factoid	Who was Whitcomb Judson? 	zipper
+219	factoid	What is the population of Japan? 	122.6|122.74?\s+million|123,622,541|123,150,000|123.3|12[0234]\s+million
+220	factoid	Who is the prime minister of Australia? 	Hawke?|Keating
+221	factoid	Who killed Martin Luther King? 	Ray
+222	factoid	Who is Anubis? 	Egyptian\s*god|row.*underworld
+223	factoid	Where's Montenegro? 	Yugoslav(ia)?|borders?.*Serbia
+224	factoid	What does laser stand for? 	light\s+amplification
+225	factoid	Who is the Greek God of the Sea? 	Poseidon
+226	factoid	Where is the Danube?  	Allmendingen|Austrian?|Belgrade|Bratislava|Budapest|Bulgarian?|Czechoslovakian?|Esztergom|Europe|Gabcikovo|Hungary|Hungarians?|Ostrov|Romanian?|Ruse|Rye Island|Serbia|Slovak(ia)?|Ukraine|Vidin|Vienna
+227	factoid	Where does dew come from? 	in\s+the\s+air|moist\s+air\s+and\s+chill|temperature\s+at\s+which\s+moisture\s+would\s*start\s+to\s+condense
+228	factoid	What is platinum? 	metals?
+229	factoid	Who is the fastest swimmer in the world? 	Ball|Barrowman|Biondi|Evans|Gillingham|Gross|Jager|Meagher|Mitchell|Morale|Oppel|Rozsa|Salnikov|Sanders|Sieben|Stewart|Wharton
+230	factoid	When did the vesuvius last erupt? 	1944
+231	factoid	Who was the president of Vichy France? 	Laval|Petain
+232	factoid	Who invented television? 	Farnsworth|Jenkins|Parker|Zworykin
+233	factoid	Who made the first airplane? 	Whitehead|Wrights?
+234	factoid	Who made the first airplane that could fly? 	Whitehead|Wrights?
+235	factoid	How many astronauts have been on the moon? 	12
+236	factoid	Who is Coronado? 	Celestino\s+Coronado|Coronado\s+Trail\s+Association|Elaine\s+Coronado|Francisco\s+Vasquez\s+de\s+Coronado|Gabriel\s+Coronado|bantamweight|exploration|leader.*gang
+237	factoid	Name one of the major gods of Hinduism? 	Brahma|Shiva|Vishnu
+238	factoid	What does the abbreviation OAS stand for? 	Organi[s|z]ation\s*of\s*American\s*States?
+239	factoid	Who is Barbara Jordan? 	Rep|Representative|congress.*seat|congresswoman|member.*Congress
+240	factoid	How many years ago did the ship Titanic sink? 	(75)|(76)|(78)|Seventy\s*-?\s*seven
+241	factoid	What is a caldera? 	craters?|lava\s+lake
+242	factoid	What was the name of the famous battle in 1836 between Texas and Mexico? 	Alamo|San Jacinto
+243	factoid	Where did the ukulele originate? 	Portugal
+244	factoid	Who invented baseball? 	Doubleday
+245	factoid	Where can you find the Venus flytrap? 	Carolinas?|N\.C\.?
+246	factoid	What did Vasco da Gama discover? 	sail.*India|sea\s*route\s*around\s*Africa|sea\s+route.*India
+247	factoid	Who won the Battle of Gettysburg? 	North|Union
+248	factoid	What is the largest snake in the world? 	reticulated?\s+pythons?
+249	factoid	Where is the Valley of the Kings? 	Egypt|Luxor
+250	factoid	Where did the Maya people live? 	Belize\s+City|British\s+Honduras|Central\s+American\s+countries|El\s+Salvador|Guatemala|Huehuetenango|Mexico|Punta\s+de\s+Chimino|Tikal|Yucatan
+251	factoid	How many people live in Chile? 	12\s+million
+252	factoid	When was the first flush toilet invented? 	1775
+253	factoid	Who is William Wordsworth? 	Immortality\s+Ode|long\s+poems|poetical|poetry|poets?|wrote.*lines|wrote.*poems?
+254	factoid	What is California's state bird? 	quail
+255	factoid	Who thought of teaching people to tie their shoe laces? 	Diamond\s+Bar\s+consultant
+256	factoid	Who is buried in the great pyramid of Giza? 	Cheops|Khufu
+257	factoid	What do penguins eat? 	herring|krill|penguin\s+milkshakes|plankton|shrimp-like\s+crustaceans
+258	factoid	Where do lobsters like to live? 	crevices?|water.*cooler|water.*full\s+of.*fish
+259	factoid	What are birds descendents of? 	dinosaurs?
+260	factoid	What does NAFTA stand for? 	North\s+American?\s+Free\s+Trade\s+Agreement|North\s+American?\s+Free\s+Trade\s+Association
+261	factoid	What company sells the most greeting cards? 	Hallmark
+262	factoid	What is the name of the longest ruling dynasty of Japan? 	Tokugawas?
+263	factoid	When was Babe Ruth born? 	1895|95\s+years\s+ago
+264	factoid	Who wrote the Farmer's Almanac? 	Robert\s+B\.?\s*Thomas
+265	factoid	What's the farthest planet from the sun? 	pluto
+266	factoid	Where was Pythagoras born? 	Greek
+267	factoid	What is the name for clouds that produce rain? 	cumulonimbus|rain\s+clouds
+268	factoid	Who killed Caesar? 	Brutus
+269	factoid	Who was Picasso? 	20th\s+century\s+masters?|Au\s+Lapin\s+Agile|Impressionist|Picasso\s+oils?|Yo\s+Picasso|artists?|blue\s+period|harlequin|painters?|rose\s+period|sculpters?|self\s*-\s*portrait|towering\s+figure\s+of\s+art
+270	factoid	Where is the Orinoco? 	Brazil|Colombia|Venezuela
+271	factoid	How tall is the giraffe? 	16\s+to\s+18\s+feet|1[678]\s*-?\s*foot|6\s*feet
+272	factoid	Where are there aborigines? 	Alaska|Australian?s?|New\s+Zealand|Northern\s+Territory|Outback|Queensland|Taiwan
+273	factoid	Who was the first U.S. president ever to resign? 	Nixon
+274	factoid	Who invented the game Scrabble? 	Butts
+275	factoid	About how many soldiers died in World War II? 	16\s+million|nine\s+million
+276	factoid	How much money does the Sultan of Brunei have? 	Dollars\s+30\s*billion|Dollars\s+37\s*bn|\$\s*24\.64\s*billion|\$\s*25\s*billion|\$\s*3[01]\s*billion|billions.*Sultan.*\$31.0
+277	factoid	How large is Missouri's population? 	5,079,385|5.1m
+278	factoid	What was the death toll at the eruption of Mount Pinatubo? 	(200)|(169)|(227)|(268)|(338)|(341)
+279	factoid	Who was Lacan? 	Bas les masques|Baudrillard\s*,?\s*Habermas\s*,?\s*Lacan\s*,?\s*CS\s*Lewis|French\s+analysts?|French\s+journalists?|Freud\s*,?\s*Jung\s*,?\s*Lacan|Jacques\s+Lacan|Jean\s*-?\s*Francois\s+Lacan|Lacan\s*'\s*s\s+writings?|Lacan\s*,?\s*CS\s*Lewis\s*,?\s*le Corbusier\s*,?\s*McLuhan|editor.*Le\s+Monde|found.*La\s+Truffe|implicated\s+Patrice\s+Pelat|investiga.*Pechiney\s*aluminium|post\s*-?\s*structuralist|psychoanalyst|writings?.*Lacan
+280	factoid	What's the tallest building in New York City? 	World\s+Trade\s+(Center|Centre)
+281	factoid	When did Geraldine Ferraro run for vice president? 	1984
+282	factoid	What do ladybugs eat? 	aphids?|leaf-?\s+and\s+flower-?\s*munching\s+pests|plant\s+pests|scale
+283	factoid	Where is Ayer's rock? 	Australia|central\s+Australian\s+desert|outback
+284	factoid	What is the life expectancy of an elephant? 	age\s*70
+285	factoid	When was the first railroad from the east coast to the west coast completed? 	1869
+286	factoid	What is the nickname of Pennsylvania? 	Keystone
+287	factoid	Who is Desmond Tutu? 	Archi?bish?op|Nobel\s+Peace|Nobel\s+laureates?|Nobel\s+prize|anti\s*-?\s*apartheid\s+cleric|anti\s*-?\s*apartheid\s+leader|bishop|black\s+South\s+African\s+leaders?|lead.*Anglican\s+Church
+288	factoid	How fast can a Corvette go? 	1[89]0\s+mph
+289	factoid	What are John C. Calhoun and Henry Clay known as? 	Sens\.|Webster\s*'?\s*s\s+contemporaries|historic\s+figures|historical\s+allies|leading\s+political\s+figures|legislators|orators|senators|statesmen
+290	factoid	When was Hurricane Hugo? 	1989
+291	factoid	When did the Carolingian period begin?  	8th
+292	factoid	How big is Australia? 	1m\s+square\s+miles
+293	factoid	Who found Hawaii? 	Capt.*Cook|Polynesians?
+294	factoid	Who is the richest person in the world? 	Hassanal|Sultan.*Brunei|Taikichiro\s+Mori|Tsutsumi
+295	factoid	How many films did Ingmar Bergman make? 	50
+296	factoid	What is the federal minimum wage? 	(\$|Dollars)\s*3.35|(\$|Dollars)\s*3.80|(\$|Dollars)\s*4.25
+297	factoid	What did brontosauruses eat? 	pine\s+needles|plants?|vegetation
+298	factoid	What is California's state tree? 	redwoods?
+299	factoid	How many types of lemurs are there? 	29|30|43
+300	factoid	What is leukemia? 	blood.*cancer|bone\s*-?\s*marrow.*cancer|cancer.*blood|smoking\s*-?\s*related\s+disease|white\s+blood
+301	factoid	Who was the first coach of the Cleveland Browns? 	1960s.*Brown|Brown.*Christ\s+Hospital|Paul\s+Brown|coach.*Brown
+302	factoid	How many people die from snakebite poisoning in the U.S. per year? 	10\s+people|13\s+Americans
+303	factoid	Who is the prophet of the religion of Islam? 	M[ou]hamm[ae]d
+304	factoid	Where is Tornado Alley? 	Texas\s+and\s+other.*states|Will\s+County|southwest.*Chicago
+305	factoid	What is molybdenum? 	alloy\s+in\s+steelmaking|alloying\s+agent|metallic\s+(substance)|(element)|metals?|strengthening\s+agent
+306	factoid	Where do hyenas live? 	African?|Kenyan?|Saudi\s+Arabia|Uganda|desert
+307	factoid	Who is Peter Weir? 	Dead\s+Poet\s*'?\s*s\s+Society|directed|direction|directors?|directs
+308	factoid	How many home runs did Babe Ruth hit in his lifetime? 	714
+309	factoid	Who was Buffalo Bill? 	Bill\s+Cody|Buffalo\s+Bill\s*"\s+Cody|Buffalo\s+Bill\s*'?\s*'?\s+Cody|Indian\s+(scout)|(fighter)|William.*Cody|pony\s+express|produced.*Wild\s+West\s+show
+310	factoid	Where is the bridge over the river Kwai? 	90\s+miles\s+west.*Bangkok|Burma|Kanchanaburi|Thai(land)?
+311	factoid	How many Superbowls have the 49ers won? 	1982\s*,?\s*'?\s*85\s*,?\s*'?\s*89.*90|^\s*3\s*$|^\s*4\s*$|^\s*four\s*$|^\s*three\s*$|four.*Super\s+Bowls?|four\s+of\s+the\s+past\s+nine|fourth\s+in\s+six\s+years|in\s+four\s+tries|third\s+straight\s+Super|three\s+(consecutive\s+)?Super
+312	factoid	Who was the architect of Central Park? 	Olmsted
+313	factoid	Who invented paper? 	Islamic\s+society|Ts.*Ai\s+Lun
+314	factoid	What is Alice Cooper's real name? 	Furnier
+315	factoid	Why can't ostriches fly? 	small.*wings|wings.*too\s+small
+316	factoid	Name a tiger that is extinct? 	Bali|Caspian|Javan|Tasmanian
+317	factoid	Where is Guam? 	1\s*,?\s*500\s+miles\s+east\s+of\s+the\s+Philippines|U\s*\.?\s*S\s*\.?\s+territory\s+in\s+the\s+Pacific|half\s+a\s+world\s+away\s+from\s+Washington|south\s+Pacific|south\s+of\s+the\s+Northern\s+Marianas|west\s+of\s+the\s+International\s+Date\s+Line|western\s+Pacific
+318	factoid	Where did Bill Gates go to college? 	Harvard
+319	factoid	How many continents are there? 	7|seven
+320	factoid	Where is Romania located? 	Eastern\s+Europe|Rhine\s*-?\s*Main\s*-?\s*Danube\s+trans\s*-?\s*European\s+axis|Rhine\s*-?\s*Main\s*-?\s*Danube\s+watercourse|border.*Hungary|border.*Yugoslavia|central\s+Europe|southeast\s+Europe
+321	factoid	When was the De Beers company founded? 	100th\s+anniversary|1888
+323	factoid	Who is the richest woman in the world? 	Elizabeth II|Queen Elizabeth|the Queen.*richest
+324	factoid	What is California's capital? 	Sacramento
+325	factoid	What is the size of Argentina? 	size.*India
+326	factoid	What do manatees eat? 	herbivores?|lettuce|plant\s*-?\s*eating|sea\s*grass|unwanted\s+vegetation
+327	factoid	When was the San Francisco fire? 	'06|1849|1906|82\s+years\s+ago|april\s*18
+328	factoid	What was the man's name who was killed in a duel with Aaron Burr? 	Hamilton
+329	factoid	What is the population of Mexico? 	80\s+million|81\s+million|83\s+million|85\.\s*8\s+million|85\s+million|86\.\s*7\s+million|90\s+million|Population\(mn\) 87.8
+330	factoid	When was the slinky invented? 	1943
+331	factoid	How hot is the core of the earth? 	5\s*,?\s*000\s+degrees\s+Celsius|5\s*,?\s*400\s+degrees\s+Fahrenheit|9\s*,?\s*000\s+degrees\s+Fahrenheit
+332	factoid	How long would it take to get from Earth to Mars? 	240\s+days|about\s+two\s+years|flight.*18\s+months?|journey.*three\s+years|minimum.*14\s+months?|nine\s+month\s+journey|nine\s+months\s+to|six\s*-?\s*month.*111\s*million\s*-?\s*mile
+334	factoid	How old is the sun? 	5bn\s+years?
+335	factoid	What is the wingspan of a condor? 	10.*feet|10.*foot|10.*ft|8.*foot|9.*feet|9.*foot
+336	factoid	When was Microsoft established? 	197[56]
+337	factoid	What's the average salary of a professional baseball player? 	Dollars?\s*1\s*\.\s*2\s*m|Dollars?\s*1m|Pounds?\s*770\s*,?\s*000|\$\s*400\s*,?\s*000|\$\s*412\s*,?\s*520|\$\s*490\s*,?\s*000|\$\s*550\s*,?\s*000|\$\s*586\s*,?\s*816|\$\s*597\s*,?\s*000|\$\s*5\s*,?\s*800\s+a\s+week|\$\s*600\s*,?\s*000|\$\s*800\s*,?\s*000|\$\s*890\s*,?\s*844
+338	factoid	Who invented basketball? 	Naismith
+340	factoid	Who is Zebulon Pike? 	Army\s+lieutenant|Pike\s+first\s+saw|Pike\s+sighted|explorer|head.*exploratory\s+troop
+341	factoid	How wide is the Atlantic Ocean? 	2\s*,?\s*300\s+miles|2\s*,?\s*500\s+miles
+342	factoid	What effect does a prism have on light? 	ben[td]|break\s+apart|combines.*single\s+beam|refract|separate|split.*light|spread
+343	factoid	What's the longest river in the world? 	Amazon.*longest|Nile.*longest|longest.*Amazon
+344	factoid	Who was considered to be the father of psychology? 	Charles.*Thomas|Jung|Pavlov|Sigmund\s+Freud|Skinner
+345	factoid	What is the population of Kansas? 	2\s*,?\s*467\s*,?\s*845|2\s*\.\s*49\s+million
+346	factoid	Who is Langston Hughes? 	Hughes.*poems?|Hughes.*poetry|Hughes.*wrote|poem.*Langston|poetry.*Hughes|poets?|writers?
+347	factoid	Who was Monet? 	Impression Sunrise|Monet.*landscapes?|Monet\s*'?\s*s\s+paintings?|Monet\s+made\s+his\s+art|Monet\s+painted|Nature\s+into\s+Art|a\s+Claude\s+Monet\s+impression|artist\s+of\s+immense\s+wealth|artists\s+include.*Monet|father\s+of\s+impressionism|impressionists?|landscape.*Monet|painted\s+by\s+Monet?|painter.*Claude\s+Monet|painting\s+at\s+Orsay|painting\s+is\s+the\s+stolen\s+Monet|paintings?\s+by\s+(Claude\s+)?Monet|paintings\s+included\s+five\s+Monet\s*'?\s*s|purchaser\s+of\s+the\s+Monet|series.*paintings|treat\s+art\s+as\s+Monet\s+did|works?\s+by\s+Monet
+348	factoid	Who built the first pyramid? 	Zo[zs]er
+349	factoid	What is the best-selling book of all time? 	Bible|Fatherhood|Gone\s+with\s+the\s+Wind|The\s+Civil\s+War|Valley\s+of\s+the\s+Dolls
+350	factoid	How many Stradivarius violins were ever made? 	1\s*,?\s*116|650|nearly\s+1\s*,?\s*120
+351	factoid	Who is Charles Lindbergh? 	aviator.*Lindbergh|design\s+the\s+pontooned\s+planes|famous\s+solo\s+flight|first.*cross.*Atlantic|first.*solo.*Atlantic|flight.*Atlantic.*1927|flying\s+ace|hero\s+pilot|historic.*Atlantic\s+crossing|isolationist\s+movement|isolationists?\s+before\s+World\s+War\s+II|kidnap.*Lindbergh|kidnapping.*son|pioneering\s+aviator|solo.*crossing
+352	factoid	Who invented the game bowling? 	Baltimore|Egyptians|Robinson.*McGraw
+353	factoid	The numbering system we use today was introduced to the western world by what culture? 	Hindu-Arabic
+354	factoid	What is a nematode? 	Steinernema\s+feltiae|eelworms?|insects\s*'?\s+natural\s+enemies|microscopic\s+organism|parasitic|pinewood\s+nematode|plant\s+parasite|roundworms?|voracious\s+bug\s+killers|worms?
+355	factoid	What is the most expensive car in the world? 	Bugatti\s+Royale
+356	factoid	Where does chocolate come from? 	cocoa\s+bean
+357	factoid	What state in the United States covers the largest area? 	Alaska
+358	factoid	What is a meerkat? 	looks\s+like\s+a\s+cross\s+between\s+a\s+dog\s+and\s+a\s+monkey|mongoose|rodents?
+359	factoid	Where is Melbourne? 	Australian?|Fla\.
+360	factoid	How much in miles is a ten K run? 	6.2\s*-?\s*miles?
+361	factoid	How hot does the inside of an active volcano get? 	1\s*,?\s*000\s*degrees|1\s*,?\s*800\s*degrees|300\s*degrees\s+Fahrenheit
+362	factoid	What is the capital of Burkina Faso? 	Ouagadougo?u
+363	factoid	What is the capital of Haiti? 	Port\s*-?\s*au\s*-?\s*Prince
+364	factoid	How many people lived in Nebraska in the mid 1980s? 	1\s*,\s*605\s*,?\s*000
+365	factoid	What is the population of Mozambique?	 	14\.[57]\s*million|15\)?\s*m(illion)?
+366	factoid	Who won the Superbowl in 1982? 	49\s*ers|San\s+Francisco
+367	factoid	What is Martin Luther King Jr.'s real birthday? 	Jan\.\)?\s*15|January\s+15
+368	factoid	Where is Trinidad? 	Caribbean|off.*coast.*Venezuela
+369	factoid	Where did the Inuits live? 	Alaska|Arctic|Canada|Canadian\s+Eskimos?|Canadian\s+Inuits?|Ellesmere|Greenland(ers)?|Iqaluit|Nunavut|Siberian?|Soviet\s+Inuits?|Soviet\s+Union.*Yuit
+370	factoid	What is the most common cancer? 	skin
+371	factoid	A corgi is a kind of what? 	dogs?|pooches
+372	factoid	When was the Triangle Shirtwaist fire? 	(March\s*25\s*,?\s*)?1911
+373	factoid	Where is the Kalahari desert? 	50\s+miles.*Kuruman|Africa|Botswana|south\s+of\s+Victoria\s+Falls|west\s+of\s+Kariba
+374	factoid	What is porphyria? 	Poems?|ailment|metabolic\s+disorder
+375	factoid	What ocean did the Titanic sink in? 	Atlantic
+376	factoid	Who was the 33rd president of the United States? 	Truman
+377	factoid	At what speed does the Earth revolve around the sun? 	30\s*km\s*/?\s*sec
+378	factoid	Who is the emperor of Japan? 	Akihito|Hirohito|Showa|Taisho
+379	factoid	How big is our galaxy in diameter? 	100\s*,?\s*000\s+light\s*-?\s*years?
+380	factoid	What language is mostly spoken in Brazil? 	Portuguese
+381	factoid	Who assassinated President McKinley? 	Czolgosz
+382	factoid	When did Muhammad live? 	7\s*th\s+century
+383	factoid	What is the largest variety of cactus? 	pronounced\s+suh-WAH-row|saguaros?
+384	factoid	Who invented the radio? 	Lear|Marconi
+385	factoid	Where are zebras most likely found? 	Busch\s+Gardens|East\s+Africa\s*'?\s*s\s+Eden\s*-?\s*like\s+game\s+parks?|Kenya|Libya|Serengeti|Tanzania|Zimbabwe
+386	factoid	What is anorexia nervosa? 	an\s+avoidance\s+of\s+food|aversion\s+to\s+eating|condition.*refusal.*eat|eating\s+disorders?|psychological\s+problems?|self\s*-?\s*starvation
+387	factoid	What year did Montana become a state?  	1889|1989.*hundred.*years.*ago.*Montana
+388	factoid	What were the names of the three ships used by Columbus? 	Nina.*Pinta.*Santa\s+Maria|Pinta.*Nina.*Santa\s+Maria
+389	factoid	Who was the 21st U.S. President? 	Arthur
+390	factoid	Where was John Adams born? 	Braintree\s*,?\s*Mass|Franklin\s+St.*Quincy|Massachusetts|Norfolk\s+County|Quincy\s*,?\s*Mass|in\s+Braintree
+391	factoid	Who painted Olympia? 	Manet
+392	factoid	Who was Quetzalcoatl? 	Aztec.*god|South\s+American\s+Indian.*god|Toltec\s+god|brother.*Tezcatlipoca|god.*ancient\s+Aztecs|god.*hurricane|god\s+of\s+learning|priest\s*-?\s*leader\s+of\s+Tula|the\s+god\s+Quetzalcoatl
+393	factoid	Where is your corpus callosum? 	brain
+394	factoid	What is the longest word in the English language? 	floccinaucinihilipilification|pneumonoultramicroscopicsilicovolcanoconiosis
+395	factoid	What is saltpeter? 	ingredient.*gunpowder|potassium\s+nitrate
+396	factoid	Who invented silly putty? 	General\s+Electric
+397	factoid	When was the Brandenburg Gate in Berlin built? 	1788|18th\s+century
+398	factoid	When is Boxing Day? 	26\s*December|Christmas.*Boxing Day|December\s+26|day\s+after\s+Christmas|ten\s+days.*January 4
+399	factoid	What is the exchange rate between England and the U.S.? 	UK\s*currency.*Dollars\s*1\.4945|to\s+\$\s*1\.7091
+400	factoid	What is the name of the Jewish alphabet? 	Alef\s*-?\s*Beyz
+401	factoid	Who was Maria Theresa? 	Austria\s*'?\s*s\s+Queen|Austrian\s+Archduchess|Empress|Maria\s+Theresa\s+of\s+Austria|queen\s+of\s+Hungary.*Bohemia|ruler\s+of\s+Austria
+402	factoid	What nationality was Jackson Pollock? 	American.*art.*Pollock|American\s+artists?|An\s+American\s+Saga|Milledgeville\s*,?\s*Ga|Pollock\s*:?\s+An\s+American|^\s*American\s*$|an\s+American\s+art\s+scene|born\s+in\s+rural\s+Georgia|character\s+of\s+American\s+art|contemporary\s+painter\s+in\s+America|greatest\s+painter\s+in\s+America
+403	factoid	Tell me what city the Kentucky Horse Park is near? 	Lexington
+404	factoid	What is the state nickname of Mississippi? 	Magnolia
+405	factoid	Who used to make cars with rotary engines? 	Mazda|NSU
+406	factoid	What is the tallest mountain? 	Everest|Maxwell
+407	factoid	What is Black Hills, South Dakota most famous for? 	Rushmore|carve.*granite\s+peak|carve.*mountain
+408	factoid	What kind of animal was Winnie the Pooh? 	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear
+409	factoid	What's another name for aspartame? 	Nutra\s*-?\s*Sweet
+410	factoid	What does hazmat stand for? 	hazardous\s+materials?
+411	factoid	What tourist attractions are there in Reims? 	Champagne\s+country|cathedrals?|champagne.*museum|champagne\s+houses?
+412	factoid	Name a film in which Jude Law acted. 	Shopping
+413	factoid	Where are the U.S. headquarters for Procter & Gamble? 	Cincinnati
+414	factoid	What's the formal name for Lou Gehrig's disease? 	amyo?troph?ic\s+lateral\s+sclerosis
+415	factoid	What does CNN stand for? 	Cable\s+News\s+Network
+416	factoid	When was CNN's first broadcast? 	June\s+,?\s*1980
+417	factoid	Who owns CNN? 	Turner
+418	factoid	What is the name of a Salt Lake City newspaper? 	Catalyst|Deseret\s+News|Salt\s+Lake\s+(City\s+)?Tribune|Salt\s+Lake\s+City\s+Deseret|Tribune\s*,\s*Salt\s+Lake
+419	factoid	Who was Jane Goodall? 	animal\s+behaviorist|anthropologist|chimpanzee\s*-?\s*observer|chimpanzee\s+researcher|chimpanzee\s+specialist|ethnologist|ethologists?|expert\s+on\s+chimps|most\s+recognizable\s+living\s+scientist|naturalist|pioneered.*study\s+of\s+primates|primatologist|scientist\s+of\s+unquestionable\s+reputation|wife.*van\s*Lawick
+420	factoid	What is pandoro? 	sweet\s+Italian\s+bread
+421	factoid	What is thalassemia? 	blood\s+disorders?|disorder.*genetic\s+defect|genetic\s+defect.*blood|genetic\s+defects?|genetic\s+disorders?|inherited\s+disorders?|lack.*gene.*hemoglobin|severe\s+blood\s+anemia
+422	factoid	When did Princess Diana and Prince Charles get married? 	1981
+423	factoid	What soft drink contains the largest amount of caffeine? 	Jolt
+424	factoid	What do you call a group of geese? 	flocks?|gaggles?
+425	factoid	How many months does a normal human pregnancy last? 	^\s*9\s*$|^\s*nine\s*$|nine\s+months
+426	factoid	What format was VHS's main competition? 	Beta(max)?|Betacam
+427	factoid	What culture developed the idea of potlatch? 	British\s+Columbia.*Indian|Indian peoples?|Indian\s+culture|Indian\s+objects|Kwakiutl|Nimpkish|Northwestern\s+Indian\s+nation|^\s*Indian\s*$
+428	factoid	Where is Logan International located? 	Boston
+429	factoid	What university was Woodrow Wilson President of? 	Princeton
+430	factoid	Where is Basque country located? 	Basque.*Europe|Basque.*France|Basque.*Spain|France.*Basque|France.*sothwest(ern)?|Guipuzcoa|Pamplona|Pyrenees\s+foothills|Spain.*Basque|Spain.*Madrid|Spain.*north(ern)?|^\s*Europe\s*$|^\s*France\s*$|^\s*Spain\s*$|controlee\s+district\s+in\s+France|north.*Spain|south\s*-?\s*west(ern)?\s+France
+431	factoid	What does CPR stand for? 	cardio\s*-?\s*pulmonary\s+resuscitation
+432	factoid	What state produces the best lobster to eat? 	Maine
+433	factoid	Who was Darth Vader's son? 	Skywalker
+434	factoid	What is a nanometer? 	about\s+four\s+100\s*-?\s*millionths\s+of\s+an\s+inch|billionth\s+of\s+a\s+meter|billionth\s+of\s+a\s+metre|millionth\s+of\s+a\s+millimeter|millionth\s+of\s+a\s+millimetre|one\s*-?\s*hundred\s*-?\s*millionth\s+of\s+a\s+meter
+435	factoid	How did Bob Marley die? 	brain\s+tumor|cancer
+436	factoid	What instrument is Ray Charles best known for playing? 	piano
+437	factoid	What is Dick Clark's birthday? 	30\s+November|November\s+30
+438	factoid	What is titanium? 	Titanium\s+dioxide.*paint\s+pigment|Titanium\s+dioxide.*whitener|alloys?|common\s+natural\s+element|metals?|titanium\s+ore
+439	factoid	What is "Nine Inch Nails"? 	Ministry.*similar.*music|eccentric\s+rock|industrial\s+dance\s*-?\s*machine|rock.*group
+440	factoid	Where was Poe born? 	Boston
+441	factoid	What king was forced to agree to the Magna Carta? 	John.*crown|King\s+John
+442	factoid	What's the name of Pittsburgh's baseball team? 	Pirates?
+444	factoid	Where is the location of the Orange Bowl? 	Dade\s+County|Miami\s*'?\s*s Orange|Miami\s*'?\s*s\s+downtown|Orange.*\s+in\s+.*Miami|Orange\s+Bowl\s*,\s*Miami|^\s*Miami\s*$|^\s*in\s+Miami\s*\.?\s*$|at\s+(\(REF:\s+)?Miami|to\s+(\(REF:\s+)?Miami
+445	factoid	When was the last major eruption of Mount St. Helens? 	198[026]
+446	factoid	What is the abbreviation for Original Equipment Manufacturer? 	OEMs?
+447	factoid	What is anise? 	^\s*seed\s*$|anise\s+extract|anise\s+seeds?|fennel|finocchio|flavor(ed)?|flavoring|fragrant\s+herbs|licorice\s*-?\s*scented\s+fragrance|potent\s+bear\s+bait|reduces\s+aggression\s+among\s+cows|spices?
+448	factoid	Where is Rider College located? 	Lawrence\s+Township|Lawrenceville|New\s+Jersey
+449	factoid	What does Nicholas Cage do for a living? 	Actors?|Hollywood.*starring|Hollywood.*stars?|film\s+stars?|he\s+plays|motion\s+pictures?|movie\s+roles?|movie\s+starring|played\s+by|played\s+opposite\s+Cher
+450	factoid	What does caliente mean (in English)? 	hot|warm
+451	factoid	Where is McCarren Airport? 	Las\s+Vegas
+452	factoid	Who created "The Muppets"? 	Henson
+453	factoid	When is Bastille Day? 	14\s+July|1789|Bastille\s+day\s+on\s+Friday|Friday\)?\s+on\s+Bastille|Friday\s+is\s+Bastille|July\)?\s+14|^\s*Friday\s*$
+454	factoid	What is the Islamic counterpart to the Red Cross? 	Red\s+Crescent
+455	factoid	What is Colin Powell best known for? 	JCS\s+Chairmanship|chair.+joint\s+chiefs|chair.+joint\s+of\s+staff|chief\s+of\s+staff|first\s+black\s+chair(man)?|head.+joint\s+chiefs|joint\s+chiefs\s+of\s+staff
+456	factoid	What is the busiest air travel season? 	December\s+holiday|May\s*-?\s*August|Thanksgiving|begins.*Memorial\s+Day|summer
+457	factoid	Where is Webster University? 	Bienvenue.+Missouri|Edgar\s+Road|Missouri\s+highway|St\.?\s+Louis\s*'?\s*s\s+Webster\s+University|Webster\s+University\s*,?\s*(in\s+)?St\.?\s+Louis|Webster\s+University\s+in\s+St\.?\s+Louis|in\s+the\s+St\.?\s+Louis\s+suburbs?
+458	factoid	What's the name of a golf course in Myrtle Beach? 	Jungle\s+Golf|Wild\s+Dunes
+459	factoid	When was John D. Rockefeller born? 	1839
+460	factoid	Name a Gaelic language. 	Gaelic\s*,?\s*Irish|Irish.+study.+their\s+language|Irish\s*,?\s*or\s+Gaelic|Irish\s+Gaelic|Irish\s+folk\s+music|Irish\s+language|Irish\s+yiddish|^\s*Irish\s*$
+461	factoid	Who was the author of the book about computer hackers called "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage"? 	Stoll
+462	factoid	What is measured in curies? 	RAO|contamination|iodine|nuclear.+polluted|radiation|radioactive|radioactivi?ty|tritium|wastes?|xenon
+463	factoid	What is a stratocaster? 	guitarist|guitars?
+464	factoid	Where are the headquarters of Eli Lilly? 	Indianapolis|London
+465	factoid	Where did Hillary Clinton graduate college? 	Wellesley|Yale\s+law
+466	factoid	Where is Glasgow? 	Scotland
+467	factoid	Who was Samuel Johnsons's friend and biographer? 	Boswell
+468	factoid	What is tyvek? 	Tyvek\s+notes|a\s+plastic|plastic.+surgical\s+gowns|spunbonded\s+olefin
+469	factoid	Who coined the term "cyberspace" in his novel "Neuromancer"? 	Gibson
+470	factoid	Who is the president of Bolivia? 	Lo[sz]ada|Paz\s+Estenssoro|Sanchez|Zamora
+471	factoid	What year did Hitler die? 	1945
+472	factoid	When did the American Civil War end? 	1865
+473	factoid	Who created the character of Scrooge? 	Dickens
+474	factoid	Who first broke the sound barrier? 	Cochran|Yeager
+475	factoid	What is the salary of a U.S. Representative? 	\$\s*120\s*,?\s*800|\$\s*125\s*,?\s*100|\$\s*125\s*,?\s*149|\$\s*87\s*,?\s*483|\$\s*89\s*,?\s*500|\$\s*96\s*,?\s*600|speaker.+\$\s*115\s*,?\s*000
+476	factoid	Name one of the Seven Wonders of the Ancient World. 	Pharos\s+Lighthouse|hanging\s+gardens?|pyramids?|temple\s+of\s+Zeus
+477	factoid	What are the birth dates for scorpios? 	Oct\.\s+23\s+thru\s+Nov\.\s+22|October\s+23\s*-?\s*November\s+23
+478	factoid	What is the airport code for Los Angeles International? 	LAX
+479	factoid	Who provides telephone service in Orange County, California? 	GTE\s*-?\s*California|GTE\s+of\s+California|Pacific\s+Bell
+480	factoid	What is the zip code for Fremont, CA? 	94536|94537|94538|94539|94555
+481	factoid	Who shot Billy the Kid? 	Garrett
+482	factoid	Who is the monarch of the United Kingdom? 	Elizabeth\s+II|Elizabeth\s+the\s+second|Queen\s+Elizabeth
+483	factoid	What is sake? 	beverage|brewed.+rice|distill.+rice|made\s+from\s+rice|processed\s+rice|rice.+brewed|rice\s+wine
+484	factoid	What is the name of the Lion King's son in the movie, "The Lion King"? 	Simba
+485	factoid	Where is Amsterdam? 	Amsterdam\s*,?\s*Netherlands|Holland|^\s*Netherlands\s*$|in\s+Europe|the Netherlands
+486	factoid	How many states have a "lemon law" for new automobiles? 	about\s+45|forty\s*-?\s*four
+487	factoid	What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger? 	Total\s+Recall
+488	factoid	What continent is Bolivia on? 	South\s+American?
+489	factoid	What are the Poconos? 	mountains?
+490	factoid	Where did guinea pigs originate? 	South\s+America
+491	factoid	Where did Woodstock take place? 	Bethel|New\s+York\s+State|New\s+York\s+from\s+Aug\.\s+15\s*-\s*17|Yasgur\s*'?s?\s+farm|^\s*N\.Y\.\s*$|in\s+upstate\s+New\s+York|northwest\s+of\s+New\s+York\s+City
+492	factoid	What is the name of the vaccine for chicken pox? 	Varivax
+493	factoid	What is Betsy Ross famous for? 	Betsy Ross\s*'\s*s?\s+flag|made.+13\s*-\s*star\s+flag|made.+first.+Stars\s+and\s+Stripes|made.+first.+flag|making.+first.+flag|original\s+flag\s+designed
+494	factoid	Who wrote the book, "The Grinch Who Stole Christmas"? 	Geisel|Seuss|Suess
+495	factoid	When did Aldous Huxley write, "Brave New World"? 	1930\s*'?\s*s|1931|1932
+496	factoid	Who wrote the book, "Song of Solomon"? 	Morrison
+497	factoid	Who portrayed Jake in the television show, "Jake and the Fatman"? 	Penny
+498	factoid	Who portrayed Fatman in the television show, "Jake and the Fatman"? 	Conrad
+499	factoid	Where is Venezuela? 	South\s+America
+500	factoid	What city in Florida is Sea World in? 	Florida\s+Inc\.?\s*,?\s+Orlando|In\s+addition\s+to\s+Orlando|Orlando\s*,?\s+Fla|Orlando\s*-\s*based|Orlando\s+_\s+in\s+Florida|Orlando\s+area\s+is\s+home\s+to\s+Sea\s+World|Orlando\s+in\s+central\s+Florida|Sea\s+World.+in\s+(San\s+Diego\s*,?\s+)?Orlando|Sea\s+World.+of\.?\s+Orlando|^\s*Orlando\s*$|marine\s+park\s+in\s+Orlando|near\s+Orlando|of\s+Florida\s+\(\s*Orlando\s*\)|of\s+Florida\s+in\s+Orlando|the\s+Orlando\s+Sea\s+World
+501	factoid	What is the population of Ohio? 	10,777,514
+502	factoid	What is one of the cities that the University of Minnesota is located in? 	Crookston|University\s+of\s+Minnesota.+Minneapolis|University\s+of\s+Minnesota\s*-?\s*Duluth|University\s+of\s+Minnesota\s+in\s+Duluth|in\s+Minneapolis|of\s+Minnesota\s*,?\s+Minneapolis|of\s+Minnesota\s*,?\s+\(REF:\s*Minneapolis|of\s+Minnesota\s+Medical\s+Center\s*,?\s+Minneapolis|the\s*University\s+of\s+Minnesota\s+in\s+Duluth
+503	factoid	What kind of sports team is the Buffalo Sabres? 	NHL|hockey
+504	factoid	Who is the founder of the Wal-Mart stores? 	Walton
+505	factoid	What city is Massachusetts General Hospital located in? 	Boston
+506	factoid	Who reports the weather on the "Good Morning America" television show? 	Christian|McNiff
+507	factoid	When did the California lottery begin? 	1985
+508	factoid	Where is Los Vegas? 	Nev\.|Nevada
+509	factoid	When was Beethoven born? 	1770
+510	factoid	What's the name of the tiger that advertises for Frosted Flakes cereal? 	Tony
+511	factoid	Where is Tufts University? 	Boston|Grafton|Medford|^\s*Mass\.\s*$|^\s*Massachusetts\s*$|in\s+Massachusetts
+512	factoid	What movie did Madilyn Kahn star in with Gene Wilder? 	Young\s+Frankenstein
+513	factoid	When did the royal wedding of Prince Andrew and Fergie take place? 	1986
+514	factoid	What cereal goes "snap, crackle, pop"? 	Rice\s+Krispies
+515	factoid	For what disease is the drug Sinemet used as a treatment? 	Parkinson(ism)?
+516	factoid	Who is Henry Butler? 	music\s+by|pianists?|professor
+517	factoid	What province is Edmonton located in? 	Alberta
+518	factoid	In what area of the world was the Six Day War fought? 	Egypt|Egyptians?|Israel|Israelis?|Jerusalem|Suez\s+Canal
+519	factoid	What is the zip code for Parsippany, NJ? 	07054
+520	factoid	When was the first Barbie produced? 	1959
+521	factoid	What was the distinguishing mark on the "Little Rascals" dog? 	circle\s+painted.+eye
+522	factoid	What does EKG stand for? 	electrocardiograms?
+523	factoid	What is Chiricahua the name of? 	(sub)?tribes?|(the)?Chiricahua\s+mountains?|Apache\s+Indian
+524	factoid	Where did Wicca first develop? 	Western\s+Europe
+525	factoid	Name a symptom of mononucleosis. 	depression|exhaustion|fatigue|flu\s*-?\s*like symptoms|lethargy|mild\s+fever|muscle\s+discomfort|pain\s+in\s+joints\s+and\s+muscles|painful\s+lymph\s+nodes|sick\s+with\s+aches|sore\s+throat|swollen\s+glands
+526	factoid	Where are diamonds mined? 	Angolan?|Argyle\s+diamond\s+mine|Arkansas|Australia|Australian\s+diamond\s+mining|Botswana|Cuango|Ghana|Kalgoorlie|Mafikeng|Namibian?|North\s+America|Northwest\s+Territories|River\s+Ranch|Russian?|Sierra\s+Leone|South\s+African?|Soviet\s+Union|Venetia|Zimbabwe|diamond\s+finds\s+in\s+the\s+US|diamond\s+mine\s+in\s+Africa|in\s+about\s+20\s+countries
+527	factoid	When was the NFL established? 	1920
+528	factoid	What are geckos? 	lizards?|missile\s+systems?|surface\s*-?\s*to\s*-?\s*air|systems.+of\s+Russian\s+manufacture
+529	factoid	Who is Terrence Malick? 	film.+directors?
+530	factoid	What other name were the "Little Rascals" known as? 	Our\s+Gang
+531	factoid	What was the name of the "Little Rascals" dog? 	Pete\s+the\s+Pup|Petie
+532	factoid	What breed of dog was the "Little Rascals" dog? 	pit\s+bulls?
+533	factoid	Who won the rugby world cup in 1987? 	All\s+Black.+1987\s+world\s+cup\s+winners?|Kirk\s*,?\s+the\s+All\s+Black|New\s+Zealand\s+won\s+the\s+first\s+world\s+cup|^\s*David\s+Kirk\s*$|^\s*New\s+Zealand\s*$
+534	factoid	Where is Windsor Castle? 	near\s+London|overlooking\s+the\s+River\s+Thames|west\s+of\s+London
+535	factoid	Who portrayed "Rosanne Rosanna-Dana" on the television show "Saturday Night Live"? 	Gilda|Radner
+536	factoid	What is the population of the United States? 	226.5\s+million|243\s+million|245,837,683|246.9\s+million|248.7\s+million|248\s+million|254\s+million|260\s+million
+537	factoid	What animal do buffalo wings come from? 	chicken
+538	factoid	When was the bar-code invented? 	1948
+539	factoid	What is witch hazel? 	Alice\s+Schertle\s*'\s*s|book|by\s+Alice\s+Schertle|gold\s*-?\s*yellow\s+flowers?|herb(al)?|pallida|shrubs?
+540	factoid	What's the abbreviation for limited partnership? 	L\.P\.
+541	factoid	What was the purpose of the Manhattan project? 	atom\s+bomb|atomic\s+bombs?|build\s+atomic\s+weapons?|design\s+and\s+build\s+the\s+two\s+bombs|development\s+of\s+the\s+A\s*-?\s*bomb|quest\s+for\s+a\s+superweapon
+542	factoid	What is the most common kind of skin cancer in the U.S.? 	basal\s*-?\s*cells?
+543	factoid	Name a civil war battlefield. 	Antietam|Appomatox|Bull\s+Run|Fredericksburg|Gettysburg|Manassas
+544	factoid	What are pomegranates? 	fruit.+pomegranates?|pomegranate.+fruits?
+545	factoid	Who wrote the song, "Silent Night"? 	Gruber|Mohr
+546	factoid	Who portrayed "the man without a face" in the movie of the same name? 	Mel\s+Gibson
+547	factoid	When was the Hoover Dam constructed? 	1930|1930s|1936
+548	factoid	What's the most famous tourist attraction in Rome? 	Coliseum
+549	factoid	At Christmas time, what is the traditional thing to do under the mistletoe? 	kiss(ing)?
+550	factoid	What is the Pennsylvania state income tax rate? 	2\.1\s*\%|3\.1\s*\%|flat\s+rate
+551	factoid	What is the name of the Michelangelo painting that shows two hands with fingers touching? 	Creation\s+of\s+Adam
+552	factoid	What caused the Lynmouth floods? 	freak\s+storm
+553	factoid	What is the name of the company that manufactures the "American Girl" doll collection? 	Pleasant
+554	factoid	How many zip codes are there in the U.S.? 	36\s*,?\s*000|42\s*,?\s*396|43\s*,?\s*000
+555	factoid	What was the name of the Titanic's captain? 	Capt\.\s+Edward\s+Smith|Captain\s+Smith
+556	factoid	How many copies of an album must be sold for it to be a gold album? 	500\s*,?\s*000
+557	factoid	When is the Tulip Festival in Michigan? 	Mich.+May|^\s*May(\s*,?)?\s*$|each\s+May
+558	factoid	What is Giorgio Vasari famous for? 	Lives\s+of\s+the\s+Artists|biographer|version.+model.+Mona\s+Lisa
+559	factoid	Who created the character James Bond? 	Fleming|Ian\s+Flemming
+560	factoid	What store does Martha Stewart advertise for? 	K\s*-?\s*mart
+561	factoid	Name an American made motorcycle. 	Harley|Honda.+motorcycles?|Indian\s+Motocycle\s+Manufacturing\s+Co|motorcycl.+Honda
+562	factoid	What Cruise Line does Kathie Lee Gifford advertise for? 	Carnival
+563	factoid	Name a movie that the actress, Sandra Bullock, had a role in. 	Religion\s*,?\s*Inc|The\s+Bionic\s+Showdown|The\s+Preppie\s+Murder|Who\s+Shot\s+Pat
+564	factoid	Where is the Thomas Edison Museum? 	West\s+Orange|^\s*N\.?J\.?\s*$
+565	factoid	What is TCI? 	Tele\s*-?\s*Communications
+566	factoid	What state does MO stand for? 	Missouri.+Mo|Mo\.?\s+.+Missouri|^\s*Missouri\s*$
+567	factoid	Name a female figure skater. 	Claudia\s+Leistner|Debi\s+Thomas|Elizabeth\s+Manley|Healy|Ito|Katarina\s+Witt|Linda\s+Fratianne|Nancy\s+Kerrigan|Peggy\s+Fleming|Rodnina|Rosalyn\s+Sumners|Surya\s+Bonaly|Tiffany\s+Chin|Tonya\s+Harding|Trenary|Yamaguchi
+568	factoid	What state is the Filenes store located in? 	Filene\s*'?\s*s\s+(Basement\s*)?_?\s*Connecticut|^\s*Maine\s*$|^\s*Massachusett\s*$|^\s*New\s+Hampshire\s*$|^\s*New\s+Jersey\s*$|^\s*New\s+Jersey\s*,\s+New\s+York\s*,\s+Pennsylvania\s*\.\s*$|^\s*New\s+York\s*$|^\s*Pennsylvania\s*$|^\s*Rhode\s+Island\s*$
+569	factoid	How much calcium should an adult female have daily? 	1\s*,?\s*000\s+milligrams|800\s+milligrams
+570	factoid	What hockey team did Wayne Gretzky play for? 	All\s+Gretzky\s+did\s+was\s+jack\s+the\s+Kings\s+up|Gretzky.+for\s+the\s+Los\s+Angeles\s+Kings?|Gretzky.+play\s+hockey\s+for\s+the\s+Kings|Gretzky.+plays\s+for\s+the\s+Kings|Gretzky\s+\&\s+the\s+L\s*\.?\s*A\s*\.?\s+Kings|Gretzky\s+and\s+the\s+L\s*\.?\s*A\s*\.?\s+Kings|Gretzky\s+led\s+the\s+Oilers|Gretzky\s+left\s+for\s+Los\s+Angeles|Gretzky\s+of\s+the\s+(Los\s+Angeles\s+)?Kings|Gretzky\s+scoreless.+Kings|Gretzky\s+to\s+(the\s+)?Los\s+Angeles|Kings\s*,?\s+the\s+Smythe\s+Division\s+champions|Kings\s+star\s+Wayne\s+Gretzky|Los\s+Angeles\s+Kings.+Gretzky|Los\s+Angeles\s+Kings\s*'?\s+superstar|Los\s+Angeles\s+Kings\s+(hockey\s+)?star|Los\s+Angeles\s+Kings\s+acquired.+Gretzky|Los\s+Angeles\s+Kings\s+center|Los\s+Angeles\s+Kings\s+hockey\s+team|Oilers.+once\s+there\s+was\s+Wayne\s+Gretzky|Team\s+Canada\s+in\s+the.+Canada\s+Cup|Trade\s+Upsets\s+Oiler\s+Fans|Wayne\s+Gretzky\s*,?\s+L\s*\.?\s*A\.?\s+Kings|^\s*(the\s+)?Los\s+Angeles\s+Kings\s*$|boss\s*,?\s*Los\s+Angeles\s+Kings\s+owner|former\s+team.+Edmonton\s+Oilers|good\s+hockey\s+team.+Gretzky\s+said.+Kings|leads\s+the\s+Kings\s+in\s+goals|leave\s+Edmonton|skated\s+for\s+the\s+Kings|teammate\s+at\s+Edmonton|the\s+Kings\s*'?\s+Wayne\s+Gretzky|to\s+the\s+Los\s+Angeles\s+Kings|to\s+the\s+struggling\s+Kings|trading.+Gretzky\s+to.+Kings
+571	factoid	What hair color can I use to just cover a little gray? 	Grecian\s+Formula\s+16|L\s*'?\s*Oreal|brown\s+tint
+572	factoid	How long would it take for a $50 savings bond to mature? 	12\s+years|maturity\s+in\s+10\s+years
+573	factoid	How many home runs did Lou Gehrig have during his career? 	493
+574	factoid	How many states have a lottery? 	26\s+states?|27\s+states?|28\s+states?|30\s+states?|32\s+states?|33\s+lottery\s+states?|33\s+states?|Twenty\s*-?\s*eight|Twenty\s*-?\s*six|^\s*26\s*$|^\s*27\s*$|^\s*28\s*$|^\s*30\s*$|^\s*31\s*$|^\s*33\s*$
+575	factoid	What kind of a sports team is the Wisconsin Badgers? 	NCAA
+576	factoid	What is the name of Joan Jett's band? 	Blackhearts|Runaways
+577	factoid	Can you give me the name of a clock maker in London, England? 	Asprey|Galbraith|Worshipful\s+Company\s+of\s+Clockmakers
+578	factoid	What was the name of the sitcom that Alyssa Milano starred in with Tony Danza? 	Who\s*'?\s*s\s+the\s+Boss
+579	factoid	What is the real name of the singer, Madonna? 	Ciccone
+580	factoid	Where did yoga originate? 	came\s+into\s+being\s+in\s+India
+581	factoid	What flower did Vincent Van Gogh paint? 	foxglove|iris(es)?|poppies|roses?|sunflowers?
+582	factoid	What radio station did Paul Harvey work for? 	KVOO
+583	factoid	What's the name of the song Will Smith sings about parents? 	Parents\s+Just\s+Don\s*'?\s*t\s+Understand
+584	factoid	What does NASA stand for? 	National\s+Aeronautics\s+and\s+Space\s+Administration
+585	factoid	What famous model was married to Billy Joel? 	Brinkley
+586	factoid	What is the chemical symbol for nitrogen? 	N\s*-\s*P\s*-\s*K\s+numbers.*nitrogen|^\s*N\s*$|nitrogen\s+\(?\s*N\s*\)?
+587	factoid	In what book can I find the story of Aladdin? 	Arabian\s+Nights?|One\s+Thousand\s+Nights\s+and\s+a\s+Night
+588	factoid	When did World War I start? 	1914|1917
+589	factoid	What state is Niagra Falls located in? 	Falls\s*,?\s+N\.?\s*Y\.?|New\s+York.+Niagara|Niagara\s+Falls\s*,?\s+in\s+New\s+York\s+state|^\s*New\s+York\s*$
+590	factoid	What's the name of the actress who starred in the movie, "Silence of the Lambs"? 	Foster
+592	factoid	Where could I go to take a ride on a steam locomotive? 	Bear\s+Mountain|Brecon\s+Beacons\s+National\s+Park|Chattanooga|China|Essex\s*,?\s+Conn|Grand\s+Canyon|Nowa\s+Sol|Paraguay|Pennsylvania|Poland|Route\s+of\s+the\s+Redwoods|U\s*\.\s*S\s*\.|Wales|scenic\s+and\s+historic\s+sites
+593	factoid	When was the movie, Caligula, made? 	1976|1980
+594	factoid	Name an American war plane? 	AC\s*-?\s*130s?|AWACS|B\s*-?\s*2|FA\s*-?\s*18|P\s*-?\s*3|P\s*-?\s*51
+595	factoid	Where is Burma? 	Burma.+Asia|East\s+Asia|Moei\s+River|Southeast\s+Asia|Thai.+border|Thailand.+neighbor|border.+Cambodia|border.+India|border.+Thailand|linking\s*Thailand|on\s+the\s+Bay\s+of\s+Bengal|with\s+Thailand
+596	factoid	How many highway miles to the gallon can you get with the Ford Fiesta? 	43(\.4)?\s*mpg
+597	factoid	Name a novel written by John Steinbeck. 	Cannery\s+Row|East\s+of\s+Eden|Grapes\s+of\s+Wrath|In\s+Dubious\s+Battle|Of\s+Mice\s+and\s+Men|Red\s+Pony|The\s+Pearl
+599	factoid	What is the mascot for Notre Dame University? 	Leprechaun
+600	factoid	What is typhoid fever? 	Salmonella|could\s+lead.+rupture.+intestines?|economically\s+important\s+disease|infections?
+601	factoid	When did the neanderthal man live? 	100\s*,?\s*000\s*-?\s*years?|35\s*,?\s*000\s*-?\s*years?|60\s*,?\s*000\s*-?\s*years?|about\s+50\s*,?\s*000\s+years?
+602	factoid	Who manufactures the software, "PhotoShop"? 	Adobe
+603	factoid	How many casinos are in Atlantic City, NJ? 	11\s+casinos?|12\s+(Atlantic\s+City\s+)?casi(nos)?|12\s+gaming|^\s*11\s*$|^\s*12\s*$
+604	factoid	What state does Martha Stewart live in? 	Conn\.|Connecticut
+605	factoid	Who was the first woman in space? 	Tereshkova|Vladinirovna
+606	factoid	What are Cushman and Wakefield known for? 	New\s+York\s+brokerage\s+concern|brokerage\s+firm\s+Cushman|commercial.*real\s*-?\s*estate|commercial\s+brokers?|commercial\s+property\s+firm|commercial\s+property\s+manager|industrial\s+brokerage|private\s+real\s*-?\s*estate\s+services|real\s*-?\s*estate.*commercial|real\s*-?\s*estate.*consultants|real\s*-?\s*estate\s+broker(age)?|real\s*-?\s*estate\s+companies|real\s*-?\s*estate\s+company|real\s*-?\s*estate\s+firm|real\s*-?\s*estate\s+giant|real\s*-?\s*estate\s+services\s+concern\s+based\s+in\s+New\s+York|real\s*-?\s*estate\s+services\s+unit\s+of\s+Rockefeller
+607	factoid	What is D.B. Cooper known for? 	commandeered.+flight|hijacker|hijacking|skyjacker|skyjacking
+608	factoid	When was Nostradamus born? 	1503
+609	factoid	When was "the Great Depression"? 	1873.*1896|1929.*1933|1930\s*'?\s*s\s*,?\s+the\s+Great|depression\s+of\s+the\s+(early\s+)?1930\s*'?\s*s
+610	factoid	What is Archimedes famous for? 	On\s+the\s+Sphere\s+and\s+the\s+Cylinder|inventions|lever|measure.*volume.+irregular|screw
+611	factoid	What is the medical condition of hypertension? 	elevation\s+in\s+blood\s+pressure|high\s+blood\s+pressure
+612	factoid	Who created the comic strip, "Garfield"? 	Davis
+613	factoid	Where is the Isle of Man? 	between\s+Ireland\s+and\s+England|close\s+to\s+the\s+UK|strip\s+of\s+water.+UK
+614	factoid	Who wrote the book, "Huckleberry Finn"? 	Clemens|Twain
+615	factoid	What day is known as the "national day of prayer"? 	Jan\.?\)?\s+22|May\s+[45]|first\s+Thursday\s+of\s+(every\s+)?May
+616	factoid	What is the purpose of a car bra? 	^\s*stealth\s*$|fool\s+police\s+radar
+617	factoid	What are chloroplasts? 	compartment.+plant\s+cells.+contain\s+genes|contain\s+chlorophyll|make\s+chlorophyll|photosynthesis\s+occurs|solar\s+energy|tiny\s+components\s+of\s+plant\s+cells
+618	factoid	What is the name of the art of growing miniature trees? 	Bonsai
+619	factoid	What is the telephone number for the University of Kentucky? 	900\s*-?\s*903\s*-?\s*3700|\(\s*606\s*\)\s*233\s*-?\s*6040
+620	factoid	Who wrote "The Scarlet Letter"? 	Hawthorne
+621	factoid	Name an art gallery in New York. 	Bess\s+Cutler|Colnaghi|Daedalus\s+Gallery|Gagosian|Grey\s+Art\s+Gallery|Guggenheim\s+Museum|Hammer\s+Galleries|Henoch|Knoedler|Lieberman\s+\&amp;\s+Saul|Louver\s+Gallery\s+New\s+York|Max\s+Protetch|Metropolitan\s+Museum|Museum\s+of\s+Modern\s+Art|Nerlino|New\s+York\s+Academy\s+of\s+Art|Pierre Matisse|Riverrun|Salander\s*-\s*O\s*'?\s*Reilly|Serpentine|Vorpal|Wildenstein Co
+622	factoid	What type of hunting are retrievers used for? 	Prairie\s+chickens?|birds?|chukar|dove|duck|pheasant|quail|small\s+game
+623	factoid	What party was Winston Churchill a member of? 	Conservatives?|Tory
+624	factoid	How was Teddy Roosevelt related to FDR? 	TR\s*'?\s*s\s+grand\s*-?\s*nephew\s+and\s+FDR\s*'?\s*s\s+eldest\s+son|distant\s+cousins
+625	factoid	When did the Chernobyl nuclear accident occur? 	1986\s+Chernobyl\s+disaster|1986\s+Chernobyl\s+nuclear|April\s*,?\s+1986.+Chernobyl|April\s+1986\s+after\s+the\s+reactor\s+exploded|April\s+26\s*,?\s+1986|Chernobyl.+April\s*,?\s+1986|Chernobyl.+accident.+nuclear.+1986|Chernobyl.+site.+1986|^\s*((in\s+)?April\s+)?1986\s*$|^\s*(occurred\s+)?in\s+1986\.?\s*$|^\s*in\s+1986\s+in\s+the\s+Soviet Union\s*$|n?uclear\s+accident.+1986|nuclear\s+disaster.+1986|radioactivity\s+spread.+April\s+1986
+626	factoid	What does SIDS stand for? 	sudden infant death syndrome
+627	factoid	What's the name of the star of the cooking show, "Galloping Gourmet"? 	Kerr
+628	factoid	What city is 94.5 KDGE Radio located in? 	Dallas
+629	factoid	What President became Chief Justice after his presidency? 	Taft
+630	factoid	How tall is kilamanjaro? 	19\s*,?\s*385\s+feet|19\s*,?\s*385\s+ft
+631	factoid	Who won the nobel prize in literature in 1988? 	Mahfouz
+632	factoid	What's the name of the Tampa newspaper? 	Tampa\s+(\(?Fla\.\)?\s+)?Times|Tampa\s+(\(?Fla\.\)?\s+)?Tribune|Tribune.*Tampa|^\s*Tribune\s*$
+633	factoid	How long do hermit crabs live? 	70\s+years?
+634	factoid	What is Dr. Ruth's last name? 	Westheimer
+635	factoid	What is cribbage? 	card\s+games?|cribbage.+games?|favorite\s+games?|game.+cribbage
+636	factoid	Italy is the largest producer of what? 	olive\s+oil|wines?|woolmark\s+products
+637	factoid	What wrestling star became "The Incredible Hulk"? 	Ferrigno
+638	factoid	Who wrote "The Pit and the Pendulum"? 	Poe
+639	factoid	Who manufacturers Magic Chef applicances? 	Maytag
+640	factoid	When was the first Wall Street Journal published? 	1889|one\s+hundred\s+years\s+ago
+641	factoid	What is the normal resting heart rate of a healthy adult? 	60.+75\s+beats.+minute|75.+80\s+times.+minute|^\s*100\s*$|^\s*75\s*$|^\s*80\s*$|under\s+100\s+beat.+minute
+642	factoid	Who's the lead singer of the Led Zeppelin band? 	Plant|Wolf
+643	factoid	Who wrote "An Ideal Husband"? 	Wilde
+644	factoid	What is ouzo? 	Greek.+traditional\s+drink|Greek\s+cordial|Greek\s+liqueur|anise\s*-?\s*flavored\s+drink|anise\s*-?\s*flavored\s+liquor|aperitifs?|fiery\s+liquor
+645	factoid	When did the Dow first reach 2000? 	01\/09\/87|Jan\.?\s+8\s*,?\s+1987|January 1987|January\s+8\s*,?\s+1987
+646	factoid	Who was Charles Lindbergh's wife? 	Anne.+Morrow|Anne\s+Lindbergh
+647	factoid	How many miles is it from London, England to Plymouth, England? 	180\s+miles|200\s+miles|225\s+miles
+648	factoid	Who is Secretary-General of the United Nations? 	Bo?utr[ou]s\s*-?\s*Ghali|Cuellar
+649	factoid	Who played the teacher in Dead Poet's Society? 	Williams
+650	factoid	How many counties are in Indiana? 	92
+651	factoid	What actress starred in "The Lion in Winter"? 	Harris|Hepburn
+652	factoid	Where was Tesla born? 	Croatia|Yugoslavian?
+653	factoid	What's the name of a hotel in Indianapolis? 	Air\s+Force.+Ramada|Holiday\s+Inn.*Indianapolis|Holiday\s+Inn.+first\s*-?\s*rate|Howard\s+Johnson.*Indianapolis|Indianapolis.*Holiday\s+Inn|Indianapolis.*Radisson|Indianapolis.*Ramada|Indianapolis.*Westin|Indianapolis.+Howard\s+Johnson|Radisson.*Indianapolis|Ramada.*Indianapolis|Ramada.+Air\s+Force|Westin.*Indianapolis|Westin.+black\s+tie|^\s*Howard\s+Johnson\s*$|the\s+Canterbury
+654	factoid	What U.S. Government agency registers trademarks? 	Trademarks?\s+Office.+province|U\.?S\.?\s+Patents?\s+and\s+Trademarks?\s+Office|U\.S\..+Trademarks?\s+Office
+655	factoid	Who started the Dominos Pizza chain? 	Monaghan
+657	factoid	In what country is a stuck-out tongue a friendly greeting? 	New\s+Zealand
+658	factoid	Where is Kings Canyon? 	200\s+miles\s+north\s+of\s+Los\s+Angeles|Calif.+parks?|California.+parks?|California\s+are\s+already\s+filling|California\s+in\s+brief|Central\s+California|Sierra|come\s+from\s+California|east\s+of\s+Fresno|parks.+California
+659	factoid	Where is the Mayo Clinic? 	Clinic.+Rochester|Clinic\s+in\s+Rochester|Jacksonville|Mayo\s+Clinic\s*,?\s+Rochester|Minnesota\s*'?\s*s\s+Mayo|Rochester.+Mayo\s+Clinic|Rochester.+medical\s+regimen|Rochester\s*,?\s+Minn|Rochester\s*,?\s+Minnesota|Scottsdale\s*,?\s+Ariz(ona)?|^\s*(in\s+)?Rochester\s*,?\s*$|^\s*Minn\.?,?\s*$|^\s*Minnesota,?\s*$|clinic\s+in\s+Minnesota
+660	factoid	How big is the Electoral College? 	301\s*-?\s*member|489.+49|500\s*-?\s*members?|538\s*-?\s*members?|60\s*,?\s*[06][06]0\s+senior|752\s*-?\s*members?|752\s*-?\s*seats?
+661	factoid	How much does one ton of cement cost? 	DM60|Pounds\s+24|\$?\s*100\s+to\s+\$\s*125|\$\s*50|about\s+\$\s*30
+662	factoid	Where does Mother Angelica live? 	Birmingham\s*,?\s+Ala|^\s*(in\s+)?Birmingham\s*$
+664	factoid	What is the name of a Greek god? 	Adonis|Apollo|Asclepius|Dionysus|Hermes|Mercury|Momus|Pan|Poseidon|Zephyrus|Zeus
+665	factoid	What year was the first automobile manufactured? 	1895
+666	factoid	What's the population of Mississippi? 	2\.3\s+million
+667	factoid	What was the name of Jacques Cousteau's ship? 	Calypso
+668	factoid	What are the names of Jacques Cousteau's two sons? 	Jean\s*-?\s*Michel|Philippe
+669	factoid	What is Java? 	Java\s+island|home\s+for.+Indonesia|island\s+of\s+Java
+670	factoid	What does Final Four refer to in the sports world? 	NCAA.+basketball|NCAA.+final\s+four|NCAA.+tournament|World\s+Cup\s*'?\s*s\s+final\s+four|World\s+Cup\s+champion|basketball.+college\s+championships?|basketball.+final\s+four|college\s+basketball|final\s+four.+basketball
+671	factoid	What does Knight Ridder publish? 	(San\s+Jose\s+)?Mercury\s+News|19\s+newspapers|2[89]\s+newspapers|Free\s+Press|Knight\s+newspapers?|Miami\s+Herald|Philadelphia\s+Inquirer|Ridder.+newspapers|Ridder\s+paper|^\s*newspapers?\s*$|at\s+the\s+News|daily\s+newspapers|excellent\s+and\s+competitive\s+newspaper\s+in\s+Detroit|newspaper\s+chains?|newspaper\s+division|newspaper\s+publishing|the\s+Inquirer
+672	factoid	What task does the Bouvier breed of dog perform? 	herding
+673	factoid	What sport do the Cleaveland Cavaliers play? 	basketball
+674	factoid	What year was the Avery Dennison company founded? 	1990.+weakened|1990\s+merger|October 1990|^\s*1990\s*$
+675	factoid	What's the population of Biloxi, Mississippi? 	49\s*,?\s*675|49\s*,\s*000
+676	factoid	Name a ballet company Mikhail Baryshnikov has danced for? 	ABT|American\s+Ballet\s+Theater|American\s+Ballet\s+Theatre|Bolshoi\s+Ballet|Kirov\s+Ballet|New\s+York\s+City\s+Ballet|White\s+Oaks\s+Project
+677	factoid	What was the name of the television show, staring Karl Malden, that had San Francisco in the title? 	Streets\s+of\s+San\s+Francisco
+678	factoid	Who was the founding member of the Pink Floyd band? 	Waters
+679	factoid	What did Delilah do to Samson's hair? 	cut\s+it\s+off|hair\s+cut
+680	factoid	What's the name of the Tokyo Stock Exchange? 	Nikkei
+681	factoid	What actor first portrayed James Bond? 	Connery
+682	factoid	What type of horses appear on the Budweiser commercials? 	Clydesdales?|draft\s+horses?
+683	factoid	What do river otters eat? 	^\s*(a\s+)?ducks?\s*$|could\s+go\s+out\s+and\s+eat\s+a\s+bird|eat\s+ducks\s*\?|fish|o?il\s*-?\s*contaminated\s+birds
+684	factoid	When did the art of quilting begin? 	12\s*th\s+century|medieval\s+Europe
+685	factoid	When did Amtrak begin operations? 	1971\s*,?\s+Amtrak\s+began?|1971\s+with\s+what\s+was\s+intended\s+to\s+be|^\s*1971\s*$|by\s+the\s+federal\s+government\s+in\s+1971|was\s+created\s+in\s+1971
+686	factoid	Where is the Smithsonian Institute located? 	Washington
+687	factoid	What year did the Vietnam War end? 	1975
+688	factoid	What country are Godiva chocolates from? 	Belgians?|Belgium
+689	factoid	How many islands does Fiji have? 	332\s+(coral\s*-?\s*fringed\s+)?islands|3[02]0\s+islands|^\s*332\s*$|^\s*3[02]0\s*$|about\s+320|about\s+332
+690	factoid	What card company sells Christmas ornaments? 	Hallmark|Pink\s+Panther|Russ\s+Berrie|Second\s+Nature
+691	factoid	Who manufactures synthroid? 	BASF|Boots.+prescription|Boots\s+acquisition|Boots\s+pharmaceutical|Boots\s+products?|Knoll|prescription.+Boots
+692	factoid	What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize? 	1984
+693	factoid	What city did the Flintstones live in? 	Bedrock
+694	factoid	Who was the oldest U.S. president? 	Reagan
+695	factoid	Who was the tallest U.S. president? 	Lincoln
+696	factoid	Where is Santa Lucia? 	Cuba|Huallaga\s+Valley|Italy|Naples|Peru|Peruvian
+697	factoid	Which U.S. President is buried in Washington, D.C.? 	Wilson
+698	factoid	Where is Ocho Rios? 	Jamaican?
+699	factoid	What year was Janet Jackson's first album released? 	1986
+700	factoid	What is another name for nearsightedness? 	myopia
+701	factoid	Winnie the Pooh is what kind of animal?   	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear
+702	factoid	What species was Winnie the Pooh? 	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear
+703	factoid	Winnie the Pooh is an imitation of which animal? 	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear
+704	factoid	What was the species of Winnie the Pooh? 	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear
+705	factoid	Aspartame is also known as what? 	Nutra\s*-?\s*Sweet
+706	factoid	What is a synonym for aspartame? 	Nutra\s*-?\s*Sweet
+707	factoid	Aspartame is known by what other name? 	Nutra\s*-?\s*Sweet
+708	factoid	Aspartame is also called what? 	Nutra\s*-?\s*Sweet
+709	factoid	Hazmat stands for what? 	hazardous\s+materials?
+710	factoid	What is the definition of hazmat? 	hazardous\s+materials?
+711	factoid	What are the names of the tourist attractions in Reims? 	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?
+712	factoid	What do most tourists visit in Reims? 	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?
+713	factoid	What attracts tourists to Reims? 	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|TOUR\s+DE\s+FRANCE|Valenciennes|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?
+714	factoid	What are tourist attractions in Reims? 	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|TOUR\s+DE\s+FRANCE|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?
+715	factoid	What could I see in Reims? 	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|Red\s+Cross|TOUR\s+DE\s+FRANCE|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?|grape\s+harvest|new\s+exposition\s+hall|reception\s+centers|temporary\s+quarters
+716	factoid	What is worth seeing in Reims? 	Cecilia\s+Bartoli\s+as\s+Rosina|Champagne\s+country|TOUR\s+DE\s+FRANCE|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?|new\s+exposition\s+hall
+717	factoid	What can one see in Reims? 	Buchan|Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|Royal\s+Champagne|TOUR\s+DE\s+FRANCE|buildings|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?|grapes\s+from\s+the\s+villages|new\s+exposition\s+hall|presidential\s+candidate|temporary\s+quarters
+718	factoid	Jude Law was in what movie? 	Shopping
+719	factoid	Jude Law acted in which film? 	Shopping
+720	factoid	What is a film starring Jude Law? 	Shopping
+721	factoid	What film was Jude Law in? 	Shopping
+722	factoid	What film or films has Jude Law appeared in? 	Shopping
+723	factoid	What city houses the U.S. headquarters of Procter and Gamble? 	Cincinnati
+724	factoid	Where is Procter & Gamble headquartered in the U.S.? 	Cincinnati|Ohio\s*-?\s*based
+725	factoid	What is the U.S. location of Procter & Gamble corporate offices? 	Cincinnati
+726	factoid	Procter & Gamble is headquartered in which U.S. city? 	Cincinnati
+727	factoid	Where is Procter & Gamble based in the U.S.? 	Cincinn?att?i|Ohio\s*-?\s*based
+728	factoid	What is the recommended daily requirement for folic acid for pregnant women? 	400\s+micrograms
+729	factoid	How much folic acid should a pregnant woman get each day? 	400\s+micrograms
+730	factoid	What is the daily requirement of folic acid for an expectant mother? 	400\s+micrograms
+731	factoid	What amount of folic acid should an expectant mother take daily? 	400\s+micrograms
+732	factoid	Name the first Russian astronaut to do a spacewalk. 	Leonov
+733	factoid	Who was the first Russian astronaut to walk in space? 	Leonov
+734	factoid	Who was the first Russian to do a spacewalk? 	Leonov
+735	factoid	CNN is the abbreviation for what? 	Cable\s+News\s+Network
+736	factoid	CNN is an acronym for what? 	Cable\s+News\s+Network
+737	factoid	What was the date of CNN's first broadcast? 	June\s+,?\s*1980
+738	factoid	CNN began broadcasting in what year? 	1979|198[01]
+739	factoid	CNN's first broadcast occurred on what date? 	June\s+,?\s*1980
+740	factoid	When did CNN begin broadcasting? 	1979|1980
+741	factoid	When did CNN go on the air? 	1980
+742	factoid	Who is the owner of CNN? 	Turner
+743	factoid	CNN is owned by whom? 	Turner
+744	factoid	What newspaper serves Salt Lake City? 	Catalyst|Deseret\s+News|Salt\s+Lake\s+(City\s+)?Tribune|Salt\s+Lake\s+City\s+Deseret|Tribune\s*,\s*Salt\s+Lake
+745	factoid	Name a Salt Lake City newspaper. 	Catalyst|Deseret\s+News|Salt\s+Lake\s+(City\s+)?Tribune|Salt\s+Lake\s+City\s+Deseret|Tribune\s*,\s*Salt\s+Lake
+746	factoid	What is Jane Goodall famous for? 	celebrated\s+animal\s+behaviorist|chimpanzee\s+research|famed\s+chimpanzee\s*-?\s*observer|famed\s+researcher|most\s+recognizable\s+living\s+scientist|studies\s+of\s+wild\s+chimpanzees
+747	factoid	What is Jane Goodall known for? 	Einstein.+physics.+Goodall.+behavioral\s+sciences|National\s+Geographic.+articles|animal\s+behaviorist|chimpanzee\s+research(er)?|chimpanzee\s+specialist|chimpanzee\s+specialist|chimpanzee\s+studies|expert\s+on\s+chimps|most\s+recognizable\s+living\s+scientist|pioneered.*study\s+of\s+primates|research\s+of.+chimpanzees|stud.+chimpanzees|study\s+apes.+wild
+748	factoid	Why is Jane Goodall famous? 	Einstein.+physics.+Goodall.+behavioral\s+sciences|National\s+Geographic.+articles|animal\s+behaviorist|chimpanzee\s*-?\s*observer|chimpanzee\s+research|chimpanzee\s+researcher|chimpanzee\s+specialist|chimpanzee\s+studies|expert\s+on\s+chimps|pioneered.*study\s+of\s+primates|research\s+of.+chimpanzees|save\s+chimpanzees\s+from\s+extinction|scientist\s+of\s+unquestionable\s+reputation|stud.+chimpanzees|study\s+apes.+wild
+749	factoid	What made Jane Goodall famous? 	National\s+Geographic.+articles|chimpanzee\s+research(er)?|chimpanzee\s+studies|pioneered.*study\s+of\s+primates|research\s+of.+chimpanzees|save\s+chimpanzees\s+from\s+extinction|stud.+chimpanzees|study\s+apes.+wild
+750	factoid	Define thalassemia. 	blood\s+disorders?|disorder.*genetic\s+defect|genetic\s+defects?|genetic\s+disorders?|inherited\s+disorders?|lack.*gene.*hemoglobin|severe\s+blood\s+anemia
+751	factoid	What is the meaning of thalassemia? 	blood\s+disorders?|disorder.*genetic\s+defect|genetic\s+defect.*blood|genetic\s+defects?|genetic\s+disorders?|inherited\s+disorders?|lack.*gene.*hemoglobin|severe\s+blood\s+anemia
+752	factoid	How is thalassemia defined? 	blood\s+disorders?|disorder.*genetic\s+defect|genetic\s+defect.*blood|genetic\s+defects?|genetic\s+disorders?|inherited\s+disorders?|lack.*gene.*hemoglobin|severe\s+blood\s+anemia
+753	factoid	What soft drink is most heavily caffeinated? 	Jolt
+754	factoid	What is the most heavily caffeinated soft drink? 	Jolt
+755	factoid	To get the most caffeine, what soda should I drink? 	Jolt
+756	factoid	Which type of soda has the greatest amount of caffeine? 	Jolt
+757	factoid	What soft drink would provide me with the biggest intake of caffeine? 	Jolt
+758	factoid	What is the collective term for geese? 	flocks?|gaggles?
+759	factoid	What is the collective noun for geese? 	^\s*gaggles?\s*$|flocks?|gaggle.+geese|geese.+gaggles?|yakt
+760	factoid	What is the term for a group of geese? 	flocks?|gaggles?
+761	factoid	What is the name given to a group of geese? 	flocks?|gaggles?
+762	factoid	What is the gestation period for human pregnancies? 	36\s+weeks?|^\s*9\s*$|^\s*nine\s*$|nine\s+months
+763	factoid	How long is human gestation? 	^\s*9\s*$|^\s*nine\s*$|nine\s+months
+764	factoid	What is the gestation period for humans? 	^\s*9\s*$|^\s*nine\s*$|nine\s+months
+765	factoid	A normal human pregnancy lasts how many months? 	^\s*9\s*$|^\s*nine\s*$|nine\s+months
+766	factoid	What was the alternate to VHS? 	Beta(max)?|Betacam
+767	factoid	What video format was an alternative to VHS? 	8\)?\s*-?\s*millimeter|8\s*-?\s*mm|Beta(max)?|Betacam|Hi\s*-?\s*8|Video\s+8|movies?
+768	factoid	What format was the major competition of VHS? 	Beta(max)?|Betacam
+769	factoid	What ethnic group introduced the idea of potlatch? 	British\s+Columbia.*Indian|Indian\s+culture|Indian\s+objects|Indian\s+peoples?|Indian\s+woman.+potlatch|Kwakiutl|Nimpkish|Northwestern\s+Indian\s+nation|^\s*Indian\s*$|claim\s+to\s+being\s+Indian|enticed\s+the\s+Indians|objects\s+to\s+the\s+Indians
+770	factoid	What is the cultural origin of the ceremony of potlatch? 	British\s+Columbia.*Indian|Indian\s+culture|Indian\s+objects|Indian\s+peoples?|Indian\s+woman.+potlatch|Kwakiutl|Native\s+American|North\s+American\s+Indian|Northwestern\s+Indian\s+nation|^\s*Indian\s*$|celebrated\s+(by\s+)?Indians|important\s+to\s+the\s+Northwestern\s+Indian
+771	factoid	Who developed potlatch? 	British\s+Columbia.*Indian|Indian peoples?|Indian\s+culture|Indian\s+objects|Kwakiutl|Nimpkish|Northwestern\s+Indian\s+nation|^\s*Indian\s*$
+772	factoid	Where is Logan Airport? 	Boston
+773	factoid	What city is Logan Airport in? 	Boston
+774	factoid	Logan International serves what city? 	Boston
+775	factoid	Logan International is located in what city? 	Boston
+776	factoid	What city's airport is named Logan International? 	Boston
+777	factoid	What city is served by Logan International Airport? 	Boston
+778	factoid	Woodrow Wilson was president of which university? 	Princeton
+779	factoid	Name the university of which Woodrow Wilson was president. 	Princeton
+780	factoid	Woodrow Wilson served as president of what university? 	Princeton
+781	factoid	What does the acronym CPR mean? 	cardio\s*-?\s*pulmonary\s+resuscitation
+782	factoid	What do the initials CPR stand for? 	cardio\s*-?\s*pulmonary\s+resuscitation
+783	factoid	CPR is the abbreviation for what? 	cardio\s*-?\s*pulmonary\s+resuscitation
+784	factoid	What is the meaning of "CPR"? 	applying\s+pressure\s+to\s+the\s+chest\s+to\s+keep\s+blood\s+pumping|cardio\s*-?\s*pulmonary\s+resuscitation
+785	factoid	What was the name of Darth Vader's son? 	Skywalker
+786	factoid	What was Darth Vader's son named? 	Skywalker
+787	factoid	What caused the death of Bob Marley? 	brain\s+tumor|cancer
+788	factoid	What killed Bob Marley? 	brain\s+tumor|cancer
+789	factoid	What was the cause of Bob Marley's death? 	brain\s+tumor|cancer
+790	factoid	What instrument does Ray Charles play? 	piano
+791	factoid	Musician Ray Charles plays what instrument? 	pianists?|piano
+792	factoid	Ray Charles plays which instrument? 	pianists?|piano
+793	factoid	Ray Charles is best known for playing what instrument? 	pianists?|piano
+795	factoid	When is Dick Clark's birthday? 	30\s+November|November\s+30
+797	factoid	What was Poe's birthplace? 	Boston
+798	factoid	What was the birthplace of Edgar Allen Poe? 	Boston
+799	factoid	Where is Poe's birthplace? 	Boston
+800	factoid	What monarch signed the Magna Carta? 	John.*crown|John\s+signed\s+Magna|King\s+John
+801	factoid	Which king signed the Magna Carta? 	John.*crown|King\s+John
+802	factoid	Who was the king who was forced to agree to the Magna Carta? 	John.*crown|King\s+John
+803	factoid	What king signed the Magna Carta? 	John.*crown|King\s+John
+804	factoid	Who was the king who signed the Magna Carta? 	John.*crown|King\s+John
+805	factoid	Where is one's corpus callosum found? 	brain
+806	factoid	What part of your body contains the corpus callosum? 	brain
+807	factoid	The corpus callosum is in what part of the body? 	brain
+808	factoid	What English word has the most letters? 	floccinaucinihilipilification|pneumonoultramicroscopicsilicovolcanoconiosis
+809	factoid	What English word contains the most letters? 	floccinaucinihilipilification|pneumonoultramicroscopicsilicovolcanoconiosis
+810	factoid	What is the longest English word? 	floccinaucinihilipilification|pneumonoultram\s*-\s*icroscopicsilicovolcanoconiosis
+812	factoid	Silly putty was invented by whom? 	General\s+Electric
+813	factoid	Who was the inventor of silly putty? 	General\s+Electric
+814	factoid	When was Berlin's Brandenburg gate erected? 	1788|18th\s+century
+815	factoid	What is the date of Boxing Day? 	26\s*December|December\s+26|day\s+after\s+Christmas|ten\s+days.*4\s+Ja(nuary)?|ten\s+days.*January\s+4
+816	factoid	What date is Boxing Day? 	26\s*December|December\s+26|day\s+after\s+Christmas|ten\s+days.*4\s+Ja(nuary)?|ten\s+days.*4\s+Ja(nuary)?|ten\s+days.*January 4
+817	factoid	Boxing Day is celebrated on what date? 	26\s*December|December\s+26|day\s+after\s+Christmas|ten\s+days.*January\s+4
+818	factoid	What city does McCarren Airport serve? 	Las\s+Vegas
+819	factoid	What city is served by McCarren Airport? 	Las\s+Vegas
+820	factoid	McCarren Airport is located in what city? 	Las\s+Vegas
+821	factoid	What is the location of McCarren Airport? 	Las\s+Vegas|Nevada
+822	factoid	Where is McCarren Airport located? 	Las\s+Vegas
+823	factoid	Who invented "The Muppets"? 	Henson
+824	factoid	What was the name of "The Muppets" creator? 	Henson
+825	factoid	"The Muppets" was created by whom? 	Henson
+826	factoid	Name the creator of "The Muppets". 	Henson
+827	factoid	Who is the creator of "The Muppets"? 	Henson
+828	factoid	What is the date of Bastille Day? 	07\s*-\s*14|14\s+July|14th\s+of\s+July|900714|July\)?\s+14
+829	factoid	Bastille Day occurs on which date? 	07\s*-\s*14|14\s+July|14th\s+of\s+July|900714|July\)?\s+14
+830	factoid	What is the equivalent of the Red Cross in the Middle East? 	Red\s+Crescent
+831	factoid	What is the name of the Islamic counterpart to the Red Cross? 	Red\s+Crescent
+832	factoid	Name the Islamic counterpart to the Red Cross. 	Red\s+Crescent
+833	factoid	What is the Islamic equivalent of the Red Cross? 	Red\s+Crescent
+834	factoid	What is the name given to the Islamic counterpart of the Red Cross? 	Red\s+Crescent
+835	factoid	Colin Powell is most famous for what? 	JCS\s+Chairmanship|chair.+joint\s+chiefs|chair.+joint\s+of\s+staff|chiefs?\s+of\s+staff|first\s+black\s+chair(man)?|head.+joint\s+chiefs|joint\s+chiefs\s+of\s+staff
+836	factoid	Colin Powell is best known for what achievement? 	JCS\s+Chairmanship|chair.+joint\s+chiefs|chair.+joint\s+of\s+staff|chiefs?\s+of\s+staff|first\s+black\s+chair(man)?|head.+joint\s+chiefs|joint\s+chiefs\s+of\s+staff
+837	factoid	Who is Colin Powell? 	JCS\s+Chairmanship|Lt\.\s+Gen\.\s+(Colin\s+)?Powell|chair.+joint\s+chiefs|chair.+joint\s+of\s+staff|chairman|chief\s+adviser\s+to\s+the\s+States|chiefs?\s+of\s+staff|economic\s+adviser|first\s+black\s+chair(man)?|four\s*-?\s*star\s+(Army\s+)?general|head.+joint\s+chiefs|joint\s+chiefs\s+of\s+staff|military\s+aide.+during.+1983|national\s+security\s+advisers?|principal\s+adviser\s+to\s+the\s+defense\s+secretary|ranking\s+black\s+military\s+officer|senior\s+military\s+officer
+838	factoid	Colin Powell is famous for what? 	JCS\s+Chairmanship|Lt\.\s+Gen\.\s+(Colin\s+)?Powell|chair.+joint\s+chiefs|chair.+joint\s+of\s+staff|chairman|chief\s+adviser\s+to\s+the\s+States|chiefs?\s+of\s+staff|economic\s+adviser|first\s+black\s+chair(man)?|four\s*-?\s*star\s+(Army\s+)?general|head.+joint\s+chiefs|joint\s+chiefs\s+of\s+staff|military\s+aide.+during.+1983|national\s+security\s+advisers?|ranking\s+black\s+military\s+officer|senior\s+military\s+officer
+839	factoid	What time of year do most people fly? 	Christmas|December\s+holiday|May\s*-?\s*August|Thanksgiving|begins.*Memorial\s+Day|summer
+840	factoid	What time of year has the most air travel? 	Christmas|December\s+holiday|May\s*-?\s*August|Thanksgiving|begins.*Memorial\s+Day|holiday\s+travel\s+period|summer
+841	factoid	What time of year is air travel the heaviest? 	Christmas\s+holiday|December\s+holiday|July|May\s*-?\s*August|Thanksgiving|begins.*Memorial\s+Day|day\s+after\s+Christmas|heavy\s+holiday\s+demand|peak\s+Easter\s+travel|starts\s+in\s+April|summer
+842	factoid	At what time of year is air travel at a peak? 	Christmas\s*-?\s*New\s+Year\s+holiday\s+period|Christmas\s+holiday|December\s+holiday|Golden Week holiday\s+in\s+early\s+May|July|May\s*-?\s*August|Thanksgiving|begins.*Memorial\s+Day|day\s+after\s+Christmas|heavy\s+holiday\s+demand|peak\s+Easter\s+travel|starts\s+in\s+April|summer
+843	factoid	Name a golf course in Myrtle Beach. 	Golden\s+Dragon|Jungle\s+Golf|Jungle\s+Lagoon|Keystone\s+Plantation|Treasures\s+of\s+Baghdad|Wild\s+Dunes
+844	factoid	What is Pittsburg's baseball team called? 	Pirates?
+845	factoid	The major league baseball team in Pittsburgh is called what? 	Pirates?
+846	factoid	Name Pittsburgh's baseball team. 	Pirates?
+847	factoid	What city is the Orange Bowl in? 	Miami.+city\s*-?\s*owned\s+Orange\s+Bowl|Miami\s*'*\s*s Orange|Miami\s*'*\s*s\s+downtown|Miami\s+;|Miami\s+police.+Orange\s+Bowl\s+Parade|Orange.*\s+in\s+.*Miami|Orange\s+Bowl\s*,?\s*Miami|^\s*Miami\s*$|^\s*in\s+Miami\s*\.?\s*$|at\s+(\(REF:\s+)?Miami|city\s+officials,?\s+Miami|to\s+(\(REF:\s+)?Miami
+848	factoid	The Orange Bowl is in what city? 	Miami.+Sugar\s+Bowl\s+in\s+New\s+Orleans|Miami.+city\s*-?\s*owned\s+Orange\s+Bowl|Miami\s*'*\s*s Orange|Miami\s*'*\s*s\s+downtown|Miami\s+;|Miami\s+police.+Orange\s+Bowl\s+Parade|Orange.*\s+in\s+.*Miami|Orange\s+Bowl\s*,?\s*Miami|^\s*Miami\s*$|^\s*in\s+Miami\s*\.?\s*$|at\s+(\(REF:\s+)?Miami|city\s+officials,?\s+Miami|in\s+Miami\s+preparing.+Orange\s+Bowl|to\s+(\(REF:\s+)?Miami
+849	factoid	The Orange Bowl is located in what city? 	Miami.+city\s*-?\s*owned\s+Orange\s+Bowl|Miami\s*'*\s*s Orange|Miami\s*'*\s*s\s+downtown|Miami\s+;|Miami\s+Dolphins\s*:\s+the\s+Orange\s+Bowl|Miami\s+police.+Orange\s+Bowl\s+Parade|Orange.*\s+in\s+.*Miami|Orange\s+Bowl\s*,?\s*Miami|^\s*Miami\s*$|^\s*in\s+Miami\s*\.?\s*$|at\s+(\(REF:\s+)?Miami|city\s+officials,?\s+Miami|in\s+Miami\s+preparing.+Orange\s+Bowl|to\s+(\(REF:\s+)?Miami
+850	factoid	Where is the Orange Bowl? 	Dade\s+County|Miami\s*'?\s*s Orange|Miami\s*'?\s*s\s+downtown|Miami\s+had\s+its\s+parade|Orange.*\s+in\s+.*Miami|Orange\s+Bowl\s*,\s*Miami|Orange\s+bowl.+hometown\s+Miami|^\s*Miami\s*$|^\s*in\s+Miami\s*\.?\s*$|at\s+(\(REF:\s+)?Miami|to\s+(\(REF:\s+)?Miami
+851	factoid	When did Mount St. Helens last erupt? 	1980s|198[026]|1991
+852	factoid	When did Mount St. Helen last have a major eruption? 	1980s|198[026]
+853	factoid	When did Mount St. Helen last have a significant eruption? 	1980s|198[026]
+854	factoid	How do you abbreviate "Original Equipment Manufacturer"? 	OEMs?
+855	factoid	How is "Original Equipment Manufacturer" abbreviated? 	OEMs?
+856	factoid	Where can one find Rider College? 	Lawrence\s+Township|Lawrenceville|New\s+Jersey
+857	factoid	What is the location of Rider College? 	Lawrence\s+Township|Lawrenceville|New\s+Jersey
+858	factoid	Rider College is located in what city? 	Lawrenceville
+859	factoid	Where is Rider College? 	Lawrence\s+Township|Lawrenceville|New\s+Jersey|^\s*N\.J\.\s*$
+860	factoid	What is the occupation of Nicholas Cage? 	Actors?|he\s+plays|movie\s+roles?|played\s+by|played\s+opposite\s+Cher
+861	factoid	What is Nicholas Cage's profession? 	Actors?|Cage\s+plays|acting|he\s+plays|movie\s+roles?|played\s+by|played\s+opposite\s+Cher
+862	factoid	What is Nicholas Cage's occupation? 	Actors?|acting|he\s+plays|movie\s+roles?|played\s+by|played\s+opposite\s+Cher|star.+in.+feature
+863	factoid	What does caliente translate to in English? 	hot|warm
+864	factoid	What is the English meaning of caliente? 	hot|warm
+865	factoid	What is the meaning of caliente (in English)? 	hot|thermal\s+springs|warm
+866	factoid	What is the English translation for the word "caliente"? 	hot|thermal\s+springs|warm
+867	factoid	What is the Jewish alphabet called? 	Alef\s*-?\s*Beyz
+868	factoid	The Jewish alphabet is called what? 	Alef\s*-?\s*Beyz
+869	factoid	The Jewish alphabet is known as what? 	Alef\s*-?\s*Beyz
+870	factoid	Jackson Pollock was a native of what country? 	American.*art.*Pollock|American\s+;|American\s+abstract\s+expressionism|American\s+artists?|An\s+American\s+Saga|Milledgeville\s*,?\s*Ga|Pollock\s*:?\s+An\s+American|U\.?S\.?\s+citizens?|^\s*American\s*$|^\s*U\.S\.\s*$|an\s+American\s+art\s+scene|born\s+in\s+rural\s+Georgia|character\s+of\s+American\s+art|contemporary\s+painter\s+in\s+America|first\s+great\s+American|greatest\s+painter\s+in\s+America
+871	factoid	Jackson Pollock is of what nationality? 	American.*art.*Pollock|American\s+artists?|An\s+American\s+Saga|Milledgeville\s*,?\s*Ga|Pollock\s*:?\s+An\s+American|^\s*American\s*$|^\s*U\.S\.\s*$|an\s+American\s+art\s+scene|born\s+in\s+rural\s+Georgia|character\s+of\s+American\s+art|contemporary\s+painter\s+in\s+America|greatest\s+painter\s+in\s+America
+872	factoid	What was the nationality of Jackson Pollock? 	American.*art.*Pollock|American\s+artists?|An\s+American\s+Saga|Milledgeville\s*,?\s*Ga|Pollock\s*:?\s+An\s+American|^\s*American\s*$|^\s*U\.S\.\s*$|an\s+American\s+art\s+scene|born\s+in\s+rural\s+Georgia|character\s+of\s+American\s+art|contemporary\s+painter\s+in\s+America|first\s+great\s+American|greatest\s+painter\s+in\s+America
+873	factoid	The Kentucky Horse Park is close to which American city? 	Lexington
+874	factoid	Where is the Kentucky Horse Park located? 	Lexington
+875	factoid	Where is the Kentucky Horse Park? 	Lexington|^\s*Kentucky\s+is\s*$
+876	factoid	What city is the Kentucky Horse Park near? 	Lexington
+877	factoid	The Kentucky Horse Park is located near what city? 	Lexington
+878	factoid	What is a nickname for Mississippi? 	Magnolia
+879	factoid	Mississippi is nicknamed what? 	Magnolia
+880	factoid	Mississippi has what name for a state nickname? 	Magnolia
+881	factoid	What is the nickname for the state of Mississippi? 	Magnolia
+882	factoid	What is the nickname of the state of Mississippi? 	Magnolia
+883	factoid	Rotary engines were manufactured by which company? 	Deere|Matsuda|Mazda|Moll[ae]r|NSU|Norton|Tahoe
+884	factoid	Who made the rotary engine automobile? 	Mazda|NSU
+885	factoid	Rotary engine cars were made by what company? 	Mazda|NSU
+886	factoid	Rotary engines used to be made by whom? 	Deere|Matsuda|Mazda|Moll[ae]r|NSU|Norton|Tahoe
+887	factoid	What company produced rotary engine vehicles? 	Deere|Matsuda|Mazda|Moll[ae]r|NSU|Norton|Tahoe
+888	factoid	What is the world's highest peak? 	Everest
+889	factoid	What is the highest mountain in the world? 	Everest
+890	factoid	Name the highest mountain. 	Everest
+891	factoid	What is the name of the tallest mountain in the world? 	Everest
+892	factoid	What makes Black Hills, South Dakota a tourist attraction? 	Custer|Jefferson|Roosevelt|Rushmore|Sioux.+traditional\s+stories|carve.*granite\s+peak|carve.*mountain|gambling|granite\s+carvings?|horses|motorcycle\s+mecca|project\s+of\s+carving|triceratops?|visages?
+893	factoid	What are the Black Hills known for? 	Badlands|Bear\s+Butte|Black\s+Hills\s+Dome|Custer\s*,?\s+a\s+Black\s+Hills\s+tourist|Custer\s+State\s+Park|Harney\s+Peak|Jefferson|Motor\s+Classic\s+Board|Potato\s+Creek\s+Johnny|Roosevelt|Rushmore|Sioux.+traditional\s+stories|Wild\s+Bill\s+Hickok|carve.*granite\s+peak|carve.*mountain|gambling|gaming\s+parlors|gold|granite\s+carvings?|horses|motorcycle\s+mecca|motorcyclists|project\s+of\s+carving|races|triceratops?|visages?
