@@ -21,6 +21,13 @@ and consists of three files:
     to treat this dataset as "blind" and do not analyze or optimize
     performance for individual questions in this dataset!
 
+  * ``trecnew-raw-test.tsv`` is a variant of the *test* split that is not
+    curated, also containing questions we have removed from the dataset
+    during curation and their original phrasings and validation regexes;
+    it contains the TREC 2002, TREC 2003 year datasets.  This dataset is
+    meant for reporting system performance in the context of papers that
+    do not use our curated data.
+
 (Some small portion of questions may be left out of the splits; these are
 left reserved for future use, e.g. as part of a validation dataset.)
 
