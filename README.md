@@ -75,3 +75,62 @@ We want to build a dataset of questions, which are:
 We may want to relax either requirement, but at that point we should start
 tagging the questions to still keep a set of "simpler" ones.  The motivation
 is to give a chance even to simple, focused systems.
+
+
+Large Variant of the Dataset
+----------------------------
+
+An extra variant of the dataset is provided, which is a strict superset
+of the curated dataset.  It is *not* curated, i.e. it is a lot more noisy
+and may not fulfill the above constraints.  The aim of this dataset is to
+check behavior of QA systems when given larger, noisy training data,
+exploring generalization capabilities of systems.
+
+The **large2180** dataset is built by adding TREC 1999, 2000, 2001 data
+to the curated dataset.  Unmodified questions of each year were shuffled
+and 80% were added to the train split, 20% to the test split.  This way,
+we fulfill our goal of boosting the training set, while propagating
+possible per-year biases to the test set as well and somewhat controlling
+for benchmark noise.  However, it may be also valid to check system
+performance with **large2180** training and **curated** testing set;
+XXX this is still not finalized, we may yet decide to keep the original
+testing set and throw everything in just the training set!
+
+Note that while **curated-train** is to be used also as the development
+set, **large2180-train** *should not* be used for development.  We may
+relax this based on some future consensus, but for now let's be conservative.
+
+The dataset is called **large2180**, which refers to the number of questions
+in the dataset.  We may build even larger datasets (e.g. including the
+WebQuestions, TREC years 2004+, QALD challenges or such) of similar nature
+in the future.
+
+## Discussion: How much data is appropriate?
+
+It might be obvious to just use the largest dataset possible, but there
+are three issues with that:
+
+  * Development convenience.  Many QA systems are pretty slow, and just
+    providing a big dataset may tempt system authors to create custom
+    splits of the datasets for their development, something we would like
+    to discourage.
+
+  * Noise.  The large2180 dataset is already relatively low quality,
+    some questions are really arbitrary and not answerable using public
+    knowledge bases.  The problem is even worse when we also consider the
+    answer patterns, which may unfairly disqualify many correct answers,
+    and worse this adds question type bias (probably almost no numerical
+    quantity answers will pass the pattern muster, but years or names
+    typically will).  Beyond the large2180 dataset, e.g. the WebQuestions
+    dataset also contains typos in questions or downright mistakes; this
+    is not unrealistic, but adds extra burden to authors of early systems;
+    furthermore, the answer patterns based on Freebase will create an
+    unfair bias towards FB in multi-source systems.  So the noise issue
+    is not just about noisy measurements, but also introducing biases,
+    not all of them obvious.
+
+  * Realistic setting.  In the end, one aspect of QA systems we consider
+    important is domain adaptability; but when moving the QA system to
+    a particular domain, it is unlikely there will be a large dataset
+    available to train it.  So observing the *scaling behavior* of a
+    system and its *small-data performance* is completely reasonable.

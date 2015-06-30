@@ -1,0 +1,198 @@
+1	factoid	Who is the author of the book, "The Iron Lady: A Biography of Margaret Thatcher"? 	Young
+2	factoid	What was the monetary value of the Nobel Peace Prize in 1989? 	\$469,000
+3	factoid	What does the Peugeot company manufacture? 	106s?|205s?|306s?|309s?|405|504s?|505s?|Peugeots|automobiles?|cars?|diesel\s+motors?|plastic\s+components|vehicles?
+4	factoid	How much did Mercury spend on advertising in 1993? 	Pounds\s+12\s*(?:m|(?:million))
+5	factoid	What is the name of the managing director of Apricot Computer? 	Horne
+6	factoid	Why did David Koresh ask the FBI for a word processor? 	To\s+record\s+his\s+revelations|finish\w*\s+writing.*?revelations
+7	factoid	What debts did Qintex group leave? 	1\.4\s*(?:(?:bn)|(?:billion))|1\.6\s*(?:(?:bn)|(?:billion))
+8	factoid	What is the name of the rare neurological disease with symptoms such as: involuntary movements (tics), swearing, and incoherent vocalizations (grunts, shouts, etc.)? 	Tourette\s*'\s*s
+9	factoid	How far is Yaroslavl from Moscow? 	150 miles?
+10	factoid	Name the designer of the shoe that spawned millions of plastic imitations, known as "jellies". 	Pfister
+11	factoid	Who was President Cleveland's wife? 	Folsom
+12	factoid	How much did Manchester United spend on players in 1993? 	Pounds\s*4\s*(?:m|(?:million))
+13	factoid	How much could you rent a Volkswagen bug for in 1966? 	\$\s*1
+14	factoid	What country is the biggest producer of tungsten? 	China
+15	factoid	When was London's Docklands Light Railway constructed? 	1980s|1987
+16	factoid	What two US biochemists won the Nobel Prize in medicine in 1992? 	(?:Krebs.*?Fischer)|(?:Fischer.*?Krebs)
+17	factoid	How long did the Charles Manson murder trial last? 	(?:(?:nine)|9).*?months?
+18	factoid	Who was the first Taiwanese President? 	Lee\s+Teng\s*-?\s*Hui|Li\s+Teng\s*-?\s*Hui|Mr\.?\s+Lee|Mr\.?\s+Li|President\s+Lee|President\s+Li
+19	factoid	Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco, Texas in 1993? 	Koresh
+20	factoid	Where is Inoco based? 	Norwich
+21	factoid	Who was the first American in space? 	Shepard
+22	factoid	When did the Jurassic Period end? 	130\s+million\s+years\s+ago
+23	factoid	When did Spain and Korea start ambassadorial relations? 	1950
+24	factoid	When did Nixon visit China? 	17\s+years\s+ago|1972|2[23]\s+years\s+ago|April\s+1993|February\s+1976|early\s+1970s|more\s+than\s+20\s+years\s+have\s+elapsed|over\s+20\s+years\s+ago|today|two\s+decades\s+ago
+25	factoid	Who was the lead actress in the movie "Sleepless in Seattle"? 	Ryan
+26	factoid	What is the name of the "female" counterpart to El Nino, which results in cooling temperatures and very dry weather? 	La\s+Nina
+27	factoid	Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place? 	East\s+Java|Surabaya
+28	factoid	Who may be best known for breaking the color line in baseball? 	Robinson
+29	factoid	What is the brightest star visible from Earth? 	Sirius
+30	factoid	What are the Valdez Principles? 	10\s*-?\s*point\s+environmental\s+agenda|code\s+of\s+conduct|environmental\s+agenda\s+for\s+corporations|principles\s+of\s+the\s+Coalition\s+of\s+Environmentally\s+Responsible\s+Economies
+31	factoid	Where was Ulysses S. Grant born? 	Ohio
+32	factoid	Who received the Will Rogers Award in 1989? 	Sinatra
+33	factoid	What is the largest city in Germany? 	Berlin
+34	factoid	Where is the actress, Marion Davies, buried? 	Hollywood\s+Cemetery|Hollywood\s+Memorial\s+Park
+35	factoid	What is the name of the highest mountain in Africa? 	Kilimanjaro|Uhuru\s+Peak
+36	factoid	In 1990, what day of the week did Christmas fall on? 	Tuesday
+37	factoid	What was the name of the US helicopter pilot shot down over North Korea? 	Hall
+38	factoid	Where was George Washington born? 	Virginia|Westmoreland\s+County
+39	factoid	Who was chosen to be the first black chairman of the military Joint Chiefs of Staff? 	Powell
+40	factoid	Who won the Nobel Peace Prize in 1991? 	Kyi
+41	factoid	What is the legal blood alcohol limit for the state of California? 	0?\.\s*08(?:%|(?:pct)|(?:per))?|0?\.\s*10(?:%|(?:pct)|(?:per))?|twice\s+the\s+legal\s+limit.*?\.20?
+42	factoid	What was the target rate for M3 growth in 1992? 	3\s*\.\s*5\s*(?:-|(?:to))\s*5\s*\.\s*5(?:%|(?:pct)|(?:per))?|3\s+1/2\s*(?:-|(?:to))\s*5\s+1/2(?:%|(?:pct)|(?:per))?|4\s*(?:-|(?:to))\s*6(?:%|(?:pct)|(?:per))?|between\s+3\s*\.\s*5.*?5\s*\.\s*5(?:%|(?:pct)|(?:per))?
+43	factoid	What costume designer decided that Michael Jackson should only wear one glove? 	Whitten
+44	factoid	Who is the director of the international group called the Human Genome Organization (HUGO) that is trying to coordinate gene-mapping research worldwide? 	McKusick
+45	factoid	When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die? 	10\s*Feb(?:ruary)?|Feb.*?94|Feb\s*10
+46	factoid	Who is the mayor of Marbella? 	Jesus\s+Gil\s+y\s+Gil
+47	factoid	What company is the largest Japanese ship builder? 	Mitsubishi\s+Heavy\s+Industries
+48	factoid	Where is the massive North Korean nuclear complex located? 	90\s*km\s+north\s+of\s+Pyongyang|Yongbyon|Yongbyun
+49	factoid	Who fired Maria Ybarra from her position in San Diego council? 	Henderson
+50	factoid	When was Dubai's first concrete house built? 	1956
+51	factoid	Who is the president of Stanford University? 	Kennedy
+52	factoid	Who invented the road traffic cone? 	Morgan
+53	factoid	Who was the first doctor to successfully transplant a liver? 	Starzl
+54	factoid	When did Nixon die? 	22\s*Apr(?:il)?|Apr(?:il)?\s*22
+55	factoid	Where is Microsoft's corporate headquarters located? 	Seattle\s+suburb|Washington|around\s+Seattle
+56	factoid	How many calories are there in a Big Mac? 	562
+57	factoid	What is the acronym for the rating system for air conditioner efficiency? 	S?EER
+58	factoid	Name a film that has won the Golden Bear in the Berlin Film Festival? 	(?:Sky)?larks\s+on\s+the\s+String|Grand\s+Canyon|In\s+The\s+Name\s+Of\s+The\s+Father|Larks|Mistertao|Music\s+Box|The\s+Wedding\s+Banquet
+59	factoid	Who was President of Costa Rica in 1994? 	Calderon|Figueres
+60	factoid	What is the fare cost for the round trip between New York and London on Concorde? 	Pounds\s+5\s*,?\s*0[03]0|\$?6\s*,?\s*400
+61	factoid	What brand of white rum is still made in Cuba? 	Havana\s+Club
+62	factoid	What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body? 	MS|Multiple\s+Sclerosis
+63	factoid	What nuclear-powered Russian submarine sank in the Norwegian Sea on April 7, 1989? 	Komsomolets
+64	factoid	Who is the voice of Miss Piggy? 	Frank\s+Oz
+65	factoid	Name a country that is developing a magnetic levitation railway system? 	German(?:y|s)?|Japan(?:(?:ese)|s)?
+66	factoid	Name the first private citizen to fly in space. 	McAuliffe
+67	factoid	What is the longest river in the United States? 	Mississippi
+68	factoid	What does El Nino mean in spanish? 	Christ\s+child|boy\s+child
+69	factoid	Who came up with the name, El Nino?  	fishermen
+70	factoid	How many lives were lost in the China Airlines' crash in Nagoya, Japan? 	26[1234]|some\s+220
+71	factoid	In what year did Joe DiMaggio compile his 56-game hitting streak? 	1941
+72	factoid	When did the original Howdy Doody show go off the air? 	1960
+73	factoid	Where is the Taj Mahal? 	Agra|India
+74	factoid	Who leads the star ship Enterprise in Star Trek? 	Kirk
+75	factoid	What cancer is commonly associated with AIDS? 	Kaposi
+76	factoid	In which year was New Zealand excluded from the ANZUS alliance? 	198[567]|mid\s*-?\s*1980\s*'?\s*s
+77	factoid	Who played the part of the Godfather in the movie, "The Godfather"?  	Brando
+78	factoid	Which large U.S. city had the highest murder rate for 1988? 	District\s+of\s+Columbia|Washington\s*'?\s*s?
+79	factoid	What did Shostakovich write for Rostropovich? 	cello\s+concertos?
+80	factoid	What is the name of the promising anticancer compound derived from the pacific yew tree? 	taxol
+81	factoid	How many inhabitants live in the town of Ushuaia? 	30\s*,?\s*000
+82	factoid	How many consecutive baseball games did Lou Gehrig play? 	2\s*,?\s*130
+83	factoid	What is the tallest building in Japan? 	Landmark\s+Tower|Sunshine
+84	factoid	Which country is Australia's largest export market? 	Japan
+85	factoid	Which former Ku Klux Klan member won an elected office in the U.S.? 	Duke
+86	factoid	Who won two gold medals in skiing in the Olympic Games in Calgary? 	Tomba
+87	factoid	Who followed Willy Brandt as chancellor of the Federal Republic of Germany? 	Helmut\s+Schmidt
+88	factoid	What is Grenada's main commodity export? 	nutmeg
+89	factoid	At what age did Rossini stop writing opera? 	mid\s*-?\s*30\s*'?\s*s
+90	factoid	Who is the founder of Scientology? 	Hubbard
+91	factoid	Which city in China has the largest number of foreign financial companies? 	Shanghai
+92	factoid	Who released the Internet worm in the late 1980s? 	Morris
+93	factoid	Who first circumnavigated the globe? 	Magellan
+94	factoid	Who wrote the song, "Stardust"? 	Hoagie\s+Carmichael
+95	factoid	What country is the worlds leading supplier of cannabis? 	Ghana|Morocco
+96	factoid	What time of day did Emperor Hirohito die? 	6:33\s*a\.?m\.?
+97	factoid	How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast? 	19m\s*-?\s*acres?
+98	factoid	Where is the highest point in Japan? 	12\s*,?\s*388\s*ft\.?|Mt\.?\s+Fuji
+99	factoid	What is the term for the sum of all genetic material in a given organism? 	genome
+100	factoid	What is considered the costliest disaster the insurance industry has ever faced? 	Hurricane\s+Andrew|Hurricane\s+Hugo
+101	factoid	How many people live in the Falklands? 	1\s*,?\s*900|2\s*,?\s*[01]00
+102	factoid	Who is the Voyager project manager? 	Haynes
+103	factoid	How many people died when the Estonia sank in 1994? 	900\s+people\s+died|[89]00\s+lives|at\s+least\s+139.*?survived
+104	factoid	What language is most commonly used in Bombay? 	Marathi
+105	factoid	How many people does Honda employ in the U.S.? 	1[057]\s*,?\s*000
+106	factoid	What is the second highest mountain peak in the world? 	K\s*-?\s*2
+107	factoid	When was China's first nuclear test? 	1964
+108	factoid	Which company created the Internet browser Mosaic? 	NCSA|National\s+Cent(?:(?:er)|(?:re))\s+for\s+Supercomputing|Netscape|University\s+of\s+Illinois
+109	factoid	Where does Buzz Aldrin want to build a permanent, manned space station? 	moon
+110	factoid	Who killed Lee Harvey Oswald? 	Ruby
+111	factoid	How long does it take to travel from Tokyo to Niigata? 	one\s+hour\s+and\s+forty\s+minutes
+112	factoid	Who is the President of Ghana? 	Rawlings
+113	factoid	What is the name of the medical condition in which a baby is born without a brain? 	anencephal(?:y|(?:ics?))
+114	factoid	How much stronger is the new vitreous carbon material invented by the Tokyo Institute of Technology compared with the material made from cellulose? 	1\s*\.\s*5\s+times
+115	factoid	What is Head Start? 	comprehensive\s+health,\s+nutritional,\s+educational,\s+social,\s+and\s+other\s+services|federally\s+funded.+?program|national\s+program\s+providing\s+comprehensive\s+developmental\s+services|preschool\s+program|provides\s+education\s+meals\s+and\s+health\s+screening|readiness\s+skills
+116	factoid	Which team won the Super Bowl in 1968? 	New\s+York\s+Jets
+117	factoid	What two researchers discovered the double-helix structure of DNA in 1953? 	(?:Watson.*?Crick)|(?:Crick.*?Watson)
+118	factoid	What percentage of the world's plant and animal species can be found in the Amazon forests? 	20\s+per\s+cent\s+of\s+all\s+higher\s+plant\s+species|30\s*(?:%|(?:per)|(?:pct))
+119	factoid	What Nobel laureate was expelled from the Philippines before the conference on East Timor? 	Mairead\s+(?:(?:Maguire)|(?:Corrigan))
+120	factoid	Who held the endurance record for women pilots in 1929? 	Trout
+121	factoid	Who won the first general election for President held in Malawi in May 1994? 	Muluzi
+122	factoid	Who is section manager for guidance and control systems at JPL? 	Jones
+123	factoid	How many Vietnamese were there in the Soviet Union? 	81\s*,?\s*000
+124	factoid	What was Agent Orange used for during the Vietnam War? 	defoliant|to\s+(?:(?:destroy)|(?:remove))\s+(?:(?:ground)|(?:jungle))\s+cover|to\s+destroy\s+fields
+125	factoid	In what city is the US Declaration of Independence located? 	District\s+of\s+Columbia|Washington
+126	factoid	When did Israel begin turning the Gaza Strip and Jericho over to the PLO? 	(?:4\s*May)|(?:May\s*4)|5\/4\/1994
+127	factoid	Which city has the oldest relationship as a sister-city with Los Angeles? 	Nagoya
+128	factoid	Who was the second man to walk on the moon? 	Aldrin
+129	factoid	How many times was pitcher, Warren Spahn, a 20-game winner in his 21 major league seasons? 	13
+130	factoid	When was Yemen reunified? 	1990(?:may22)?|22 May 1993
+132	factoid	What is the capital of Uruguay? 	Montevideo
+133	factoid	What is the name for the technique of growing certain plants in soils contaminated with toxic metals, wherein the plants take up the toxic metals, are harvested, and the metals recovered for recycling? 	green\s+remediation
+134	factoid	Where is it planned to berth the merchant ship, Lane Victory, which Merchant Marine veterans are converting into a floating museum? 	Berth\s+87|Los\s+Angeles.*?Harbor|Port\s+of\s+Los\s+Angeles|San\s+Pedro
+135	factoid	What famous communist leader died in Mexico City? 	Trotsky
+136	factoid	Who is the Queen of Holland? 	Queen Beatrix
+137	factoid	Who is the president of the Spanish government? 	Gonzalez
+138	factoid	What is the name of the normal process in all living things, including humans, in which cells are programmed to "commit suicide"? 	apoptosis
+139	factoid	How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992? 	4\s*,?\s*200
+140	factoid	How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie, Scotland, December 21, 1988? 	11
+141	factoid	What is the duration of the trip from Bristol to London by rail? 	1\s*hour\s*11\s*minutes
+142	factoid	What is the population of Ulan Bator, capital of Mongolia? 	600\s*,?\s*000
+143	factoid	Where does most of the marijuana entering the United States come from? 	Mexico
+144	factoid	How many megawatts will the power project in Indonesia, built by a consortium headed by Mission Energy of US, produce? 	1\s*,?\s*200(?:MW)?|2\s*,?\s*400(?:MW)?|two.*?600(?:MW)?
+145	factoid	What did John Hinckley do to impress Jodie Foster? 	Hinckley.+?shot.+?Reagan|Reagan.+?gunman.+?Hinckley|Reagan.+?shot\s+by|Reagan.+?would\s*-\s*be\s+assassin|attempt.+?to\s+assassinate.*?President|to\s+shoot\s+the\s+President|tried\s+to\s+kill\s+President
+146	factoid	In what year did Ireland elect its first woman president? 	1990
+147	factoid	Who is the prime minister of Japan? 	Hata|Hosokawa|Kaifu|Miyazawa|Murayama|Takeshita
+148	factoid	How many soldiers were involved in the last Panama invasion by the United States of America? 	14\s*,?\s*000|20\s*,?\s*000
+149	factoid	Where is the Bulls basketball team based? 	Chicago
+150	factoid	What is the length of border between the Ukraine and Russia? 	1\s*,?\s*270\s*k(?:ilo)?m(?:eters)?|850\s*-?\s*miles?
+151	factoid	Where did Dylan Thomas die? 	New\s+York
+152	factoid	How many people live in Tokyo? 	11\s*\.\s*9\s*m(?:illion)?|12\s*m(?:illion)?
+153	factoid	What is the capital of California? 	Sacramento
+154	factoid	How many Grand Slam titles did Bjorn Borg win? 	11
+155	factoid	Who was the Democratic nominee in the American presidential election? 	Clinton|Dukakis|Humphrey|McGovern
+156	factoid	When was General Manuel Noriega ousted as the leader of Panama and turned over to U.S. authorities? 	Jan.?\s*3
+157	factoid	Where is  Dartmouth College? 	Hanover|N\s*\.?\s*H\s*\.?|New Hampshire|United States
+158	factoid	How many mines can still be found in the Falklands after the war ended? 	30\s*,?\s*000|33\s*,?\s*000
+159	factoid	Why are electric cars less efficient in the north-east than in California? 	cold
+160	factoid	When did French revolutionaries storm the Bastille? 	14\s*July|1789(?:jul14)?|7\/14|July\s*14
+161	factoid	How rich is Bill Gates? 	Dollars\s*6\s*\.\s*[34]\s*bn|Dollars\s*7\s*bn|billionaire
+162	factoid	What is the capital of Kosovo? 	Prish?tina|Prishtine
+163	factoid	What state does Charles Robb represent? 	VA|Virginia
+164	factoid	Who is the leading competitor of Trans Union Company? 	Equifax
+165	factoid	Which type of submarine was bought recently by South Korea? 	209
+166	factoid	When did communist control end in Hungary? 	10\/23\/1989|23\s*Oct(?:ober)?\s*1989
+167	factoid	What nationality is Pope John Paul II? 	Poland|Polish
+168	factoid	Who was the captain of the tanker, Exxon Valdez, involved in the oil spill in Prince William Sound, Alaska, 1989? 	Hazelwood
+169	factoid	Whom did the Chicago Bulls beat in the 1993 championship? 	Phoenix Suns
+170	factoid	Who was President of Afghanistan in 1994? 	Rabbani
+171	factoid	Who is the director of intergovernmental affairs for the San Diego county? 	Sweeten
+172	factoid	Where is the Keck telescope? 	Hawaii
+173	factoid	How many moons does Jupiter have? 	four
+174	factoid	When did Jaco Pastorius die? 	1987|two\s+years\s+ago
+175	factoid	When did beethoven die? 	1827
+176	factoid	How many people in Tucson? 	500\s*,?\s*000
+177	factoid	How tall is Mt. Everest? 	29\s*,?\s*028\s*-?\s*f(?:ee)?t|29\s*,?\s*028\s*-?\s*foot|29\s*,?\s*100\s*-?\s*f(?:ee)?t|29\s*,?\s*100\s*-?\s*foot
+178	factoid	What is the capital of Congo? 	Brazzaville
+179	factoid	What is the capital of Italy? 	Rome
+180	factoid	What is the capital of Sri Lanka? 	Colombo
+181	factoid	What novel inspired the movie BladeRunner? 	Do\s+Androids\s+Dream\s+Of\s+Electric\s+Sheep
+182	factoid	What was the first Gilbert and Sullivan opera? 	Thespis|Trial\s+by\s+Jury
+183	factoid	What was the name of the computer in "2001: A Space Odyssey"? 	HAL
+185	factoid	When was the battle of the Somme fought? 	1916|April\s*21\s*,?\s*1918
+186	factoid	Where did the Battle of the Bulge take place? 	Clervaux\s+Castle|Luxembourg
+187	factoid	Where was Lincoln assassinated? 	Ford\s*'?\s*s\s+Theater|Ford\s*'?\s*s\s+Theatre|Washington\s*,?\s*D\s*\.?\s*C\s*\.?
+188	factoid	When was the women's suffrage amendment ratified? 	1893.*?27\s+years\s+before|69\s+years\s+ago.*?1989|Aug\s*\.?\s*18\s*,?\s*1920
+189	factoid	Where is Qatar? 	Middle\s+East|Persian\s+Gulf
+190	factoid	Where is South Bend? 	Ind(?:iana)?|South\s+Bend\s*,\s*IN|South\s+Bend\s*IN\s+466\d\d
+191	factoid	Where was Harry Truman born? 	Lamar\s*,?\s*Mo|Missouri|Mo\s*\.|USA
+192	factoid	Who was Secretary of State during the Nixon administration? 	Kissinger|Rogers
+193	factoid	Who was the 16th President of the United States? 	Honest\s+Abe|Lincoln
+194	factoid	Who wrote "The Pines of Rome"? 	Respighi
+195	factoid	Who wrote "Dubliners"?  	Joyce
+196	factoid	Who wrote "Hamlet"? 	Shakespeare(?:an)?
+197	factoid	What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics? 	Yeah\s*,?\s*but\s+I\s*'?\s*m\s+sleeping
+198	factoid	How did Socrates die? 	hemlock
+199	factoid	How tall is the Matterhorn? 	14\s*,?\s*690\s*-\s*foot|14\s*,?\s*776\s*feet\s+9|7\s*inches\s+higher\s+than.*?14\s*,?\s*776\s*feet\s+2
+200	factoid	How tall is the replica of the Matterhorn at Disneyland? 	147\s*-?\s*f(?:(?:oo)|(?:ee))?t
