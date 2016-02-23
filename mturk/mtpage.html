@@ -1,0 +1,208 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="Other" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p>Our AI system generates a couple of answers for various quiz questions,
+	and we need your help identifying which ones are correct.
+	We have some "answer patterns",
+	but sometimes they are out of date and imperfect.
+	Nevertheless, they can help you identify the correct answer,
+	so we show them next to the question; sorry if they are not very human readable sometimes.</p>
+
+<p>Please read each question and select all answers which are correct based on the hint, the supporting sentences provided for each question, your knowledge and/or a quick Google search.</p>
+
+<ul>
+	<li>Multiple answers may be correct! Please select all.  For example, the south-western tip of Engliand is <em>Land's End</em> in <em>Cornwall</em>; the hint is <em>Cornwall</em>, but also select the <em>Land's End</em>.</li>
+	<li>We prefer short, to-the-point answers.  When asking about snack flavor, <em>banana</em> is better than <em>originally a snack cake filled with banana cream</em>.</li>
+</ul>
+	<hr>
+<ul>
+	<!-- <li>If one correct answer clearly supersedes another one (better in all aspects), please do not select the inferior one.</li> -->
+	<li>Sometimes, no provided answer is correct.  Maybe you know the right answer, otherwise please try to briefly check the answer using Google.  Enter the correct answer in the provided text box.</li>
+	<li>Sometimes, you find multiple correct answers that were not provided.  For example multiple years for an invention, or mountain height in different units.  Please enter all of them, separated by the "|" character.</li>
+	<li>If you did not manage to find the answer, please tick "unknown". If you think the question has no correct or good answer, please tick "bad question".</li>
+	<!-- <li>A few cases of unknown and bad questions are expected; only HITs with too many easy-to-answer questions marked so will be rejected.</li> -->
+</ul>
+
+<p align="center">We did a test run and <b>you are doing awesome!</b><br>Please keep up the great work. Hope you also learn something interesting.</p>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+
+<fieldset>
+<legend>q1/10: <b>${q1_question}</b></legend>
+
+<p>Hint: <i>${q1_gsans}</i></p>
+
+<p> <label><input name="q1_answer" type="checkbox" value="${q1_ans0}" /> <b>${q1_ans0}</b></label> (${q1_ev0})</p>
+<p> <label><input name="q1_answer" type="checkbox" value="${q1_ans1}" /> <b>${q1_ans1}</b></label> (${q1_ev1})</p>
+<p> <label><input name="q1_answer" type="checkbox" value="${q1_ans2}" /> <b>${q1_ans2}</b></label> (${q1_ev2})</p>
+<p> <label><input name="q1_answer" type="checkbox" value="${q1_ans3}" /> <b>${q1_ans3}</b></label> (${q1_ev3})</p>
+<p> <label><input name="q1_answer" type="checkbox" value="${q1_ans4}" /> <b>${q1_ans4}</b></label> (${q1_ev4})</p>
+<p> <label>My custom answer: <input name="q1_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q1_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q1_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q2/10: <b>${q2_question}</b></legend>
+
+<p>Hint: <i>${q2_gsans}</i></p>
+
+<p> <label><input name="q2_answer" type="checkbox" value="${q2_ans0}" /> <b>${q2_ans0}</b></label> (${q2_ev0})</p>
+<p> <label><input name="q2_answer" type="checkbox" value="${q2_ans1}" /> <b>${q2_ans1}</b></label> (${q2_ev1})</p>
+<p> <label><input name="q2_answer" type="checkbox" value="${q2_ans2}" /> <b>${q2_ans2}</b></label> (${q2_ev2})</p>
+<p> <label><input name="q2_answer" type="checkbox" value="${q2_ans3}" /> <b>${q2_ans3}</b></label> (${q2_ev3})</p>
+<p> <label><input name="q2_answer" type="checkbox" value="${q2_ans4}" /> <b>${q2_ans4}</b></label> (${q2_ev4})</p>
+<p> <label>My custom answer: <input name="q2_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q2_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q2_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q3/10: <b>${q3_question}</b></legend>
+
+<p>Hint: <i>${q3_gsans}</i></p>
+
+<p> <label><input name="q3_answer" type="checkbox" value="${q3_ans0}" /> <b>${q3_ans0}</b></label> (${q3_ev0})</p>
+<p> <label><input name="q3_answer" type="checkbox" value="${q3_ans1}" /> <b>${q3_ans1}</b></label> (${q3_ev1})</p>
+<p> <label><input name="q3_answer" type="checkbox" value="${q3_ans2}" /> <b>${q3_ans2}</b></label> (${q3_ev2})</p>
+<p> <label><input name="q3_answer" type="checkbox" value="${q3_ans3}" /> <b>${q3_ans3}</b></label> (${q3_ev3})</p>
+<p> <label><input name="q3_answer" type="checkbox" value="${q3_ans4}" /> <b>${q3_ans4}</b></label> (${q3_ev4})</p>
+<p> <label>My custom answer: <input name="q3_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q3_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q3_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q4/10: <b>${q4_question}</b></legend>
+
+<p>Hint: <i>${q4_gsans}</i></p>
+
+<p> <label><input name="q4_answer" type="checkbox" value="${q4_ans0}" /> <b>${q4_ans0}</b></label> (${q4_ev0})</p>
+<p> <label><input name="q4_answer" type="checkbox" value="${q4_ans1}" /> <b>${q4_ans1}</b></label> (${q4_ev1})</p>
+<p> <label><input name="q4_answer" type="checkbox" value="${q4_ans2}" /> <b>${q4_ans2}</b></label> (${q4_ev2})</p>
+<p> <label><input name="q4_answer" type="checkbox" value="${q4_ans3}" /> <b>${q4_ans3}</b></label> (${q4_ev3})</p>
+<p> <label><input name="q4_answer" type="checkbox" value="${q4_ans4}" /> <b>${q4_ans4}</b></label> (${q4_ev4})</p>
+<p> <label>My custom answer: <input name="q4_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q4_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q4_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q5/10: <b>${q5_question}</b></legend>
+
+<p>Hint: <i>${q5_gsans}</i></p>
+
+<p> <label><input name="q5_answer" type="checkbox" value="${q5_ans0}" /> <b>${q5_ans0}</b></label> (${q5_ev0})</p>
+<p> <label><input name="q5_answer" type="checkbox" value="${q5_ans1}" /> <b>${q5_ans1}</b></label> (${q5_ev1})</p>
+<p> <label><input name="q5_answer" type="checkbox" value="${q5_ans2}" /> <b>${q5_ans2}</b></label> (${q5_ev2})</p>
+<p> <label><input name="q5_answer" type="checkbox" value="${q5_ans3}" /> <b>${q5_ans3}</b></label> (${q5_ev3})</p>
+<p> <label><input name="q5_answer" type="checkbox" value="${q5_ans4}" /> <b>${q5_ans4}</b></label> (${q5_ev4})</p>
+<p> <label>My custom answer: <input name="q5_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q5_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q5_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q6/10: <b>${q6_question}</b></legend>
+
+<p>Hint: <i>${q6_gsans}</i></p>
+
+<p> <label><input name="q6_answer" type="checkbox" value="${q6_ans0}" /> <b>${q6_ans0}</b></label> (${q6_ev0})</p>
+<p> <label><input name="q6_answer" type="checkbox" value="${q6_ans1}" /> <b>${q6_ans1}</b></label> (${q6_ev1})</p>
+<p> <label><input name="q6_answer" type="checkbox" value="${q6_ans2}" /> <b>${q6_ans2}</b></label> (${q6_ev2})</p>
+<p> <label><input name="q6_answer" type="checkbox" value="${q6_ans3}" /> <b>${q6_ans3}</b></label> (${q6_ev3})</p>
+<p> <label><input name="q6_answer" type="checkbox" value="${q6_ans4}" /> <b>${q6_ans4}</b></label> (${q6_ev4})</p>
+<p> <label>My custom answer: <input name="q6_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q6_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q6_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q7/10: <b>${q7_question}</b></legend>
+
+<p>Hint: <i>${q7_gsans}</i></p>
+
+<p> <label><input name="q7_answer" type="checkbox" value="${q7_ans0}" /> <b>${q7_ans0}</b></label> (${q7_ev0})</p>
+<p> <label><input name="q7_answer" type="checkbox" value="${q7_ans1}" /> <b>${q7_ans1}</b></label> (${q7_ev1})</p>
+<p> <label><input name="q7_answer" type="checkbox" value="${q7_ans2}" /> <b>${q7_ans2}</b></label> (${q7_ev2})</p>
+<p> <label><input name="q7_answer" type="checkbox" value="${q7_ans3}" /> <b>${q7_ans3}</b></label> (${q7_ev3})</p>
+<p> <label><input name="q7_answer" type="checkbox" value="${q7_ans4}" /> <b>${q7_ans4}</b></label> (${q7_ev4})</p>
+<p> <label>My custom answer: <input name="q7_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q7_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q7_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q8/10: <b>${q8_question}</b></legend>
+
+<p>Hint: <i>${q8_gsans}</i></p>
+
+<p> <label><input name="q8_answer" type="checkbox" value="${q8_ans0}" /> <b>${q8_ans0}</b></label> (${q8_ev0})</p>
+<p> <label><input name="q8_answer" type="checkbox" value="${q8_ans1}" /> <b>${q8_ans1}</b></label> (${q8_ev1})</p>
+<p> <label><input name="q8_answer" type="checkbox" value="${q8_ans2}" /> <b>${q8_ans2}</b></label> (${q8_ev2})</p>
+<p> <label><input name="q8_answer" type="checkbox" value="${q8_ans3}" /> <b>${q8_ans3}</b></label> (${q8_ev3})</p>
+<p> <label><input name="q8_answer" type="checkbox" value="${q8_ans4}" /> <b>${q8_ans4}</b></label> (${q8_ev4})</p>
+<p> <label>My custom answer: <input name="q8_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q8_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q8_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q9/10: <b>${q9_question}</b></legend>
+
+<p>Hint: <i>${q9_gsans}</i></p>
+
+<p> <label><input name="q9_answer" type="checkbox" value="${q9_ans0}" /> <b>${q9_ans0}</b></label> (${q9_ev0})</p>
+<p> <label><input name="q9_answer" type="checkbox" value="${q9_ans1}" /> <b>${q9_ans1}</b></label> (${q9_ev1})</p>
+<p> <label><input name="q9_answer" type="checkbox" value="${q9_ans2}" /> <b>${q9_ans2}</b></label> (${q9_ev2})</p>
+<p> <label><input name="q9_answer" type="checkbox" value="${q9_ans3}" /> <b>${q9_ans3}</b></label> (${q9_ev3})</p>
+<p> <label><input name="q9_answer" type="checkbox" value="${q9_ans4}" /> <b>${q9_ans4}</b></label> (${q9_ev4})</p>
+<p> <label>My custom answer: <input name="q9_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q9_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q9_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+<fieldset>
+<legend>q10/10: <b>${q10_question}</b></legend>
+
+<p>Hint: <i>${q10_gsans}</i></p>
+
+<p> <label><input name="q10_answer" type="checkbox" value="${q10_ans0}" /> <b>${q10_ans0}</b></label> (${q10_ev0})</p>
+<p> <label><input name="q10_answer" type="checkbox" value="${q10_ans1}" /> <b>${q10_ans1}</b></label> (${q10_ev1})</p>
+<p> <label><input name="q10_answer" type="checkbox" value="${q10_ans2}" /> <b>${q10_ans2}</b></label> (${q10_ev2})</p>
+<p> <label><input name="q10_answer" type="checkbox" value="${q10_ans3}" /> <b>${q10_ans3}</b></label> (${q10_ev3})</p>
+<p> <label><input name="q10_answer" type="checkbox" value="${q10_ans4}" /> <b>${q10_ans4}</b></label> (${q10_ev4})</p>
+<p> <label>My custom answer: <input name="q10_answer_cust" type="text" size="60" maxlength="512" /></label></p>
+<p> <label><input name="q10_answer_unk" type="checkbox" value="1" /> Unknown :(</label></p>
+<p> <label><input name="q10_answer_bad" type="checkbox" value="1" /> Bad Question :(</label></p>
+</fieldset>
+
+
+</section>
+<!-- End Content Body --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset {
+    padding: 10px;
+    background:#fbfbfb;
+    border-radius:5px;
+    margin-bottom:5px;
+}
+</style>
