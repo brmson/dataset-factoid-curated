@@ -896,7 +896,7 @@
 491	factoid	Where did Woodstock take place? 	Bethel|New\s+York\s+State|New\s+York\s+from\s+Aug\.\s+15\s*-\s*17|Yasgur\s*'?s?\s+farm|^\s*N\.Y\.\s*$|in\s+upstate\s+New\s+York|northwest\s+of\s+New\s+York\s+City
 459	factoid	When was John D. Rockefeller born? 	1839
 280	factoid	What's the tallest building in New York City? 	World\s+Trade\s+(Center|Centre)
-365	factoid	What is the population of Mozambique?	 	14\.[57]\s*million|15\)?\s*m(illion)?
+365	factoid	What is the population of Mozambique? 	14\.[57]\s*million|15\)?\s*m(illion)?
 417	factoid	Who owns CNN? 	Turner
 759	factoid	What is the collective noun for geese? 	^\s*gaggles?\s*$|flocks?|gaggle.+geese|geese.+gaggles?|yakt
 272	factoid	Where are there aborigines? 	Alaska|Australian?s?|New\s+Zealand|Northern\s+Territory|Outback|Queensland|Taiwan
