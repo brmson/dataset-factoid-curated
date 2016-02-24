@@ -1,42 +1,42 @@
 1756	factoid	When is Fashion week in NYC?	Sept?(ember)?|Feb(ruary)?
 1434	factoid	What site did Lindbergh begin his flight from in 1927?	Long Island|New\s?York|Roosevelt Field
 1790	factoid	What country is the holy city of Mecca located in?	Saudi Arabia
-1992	factoid	How hot is the sun?	(5,?778|6,?[05]00)\s*K|(5,?505|6,?[50]00).*C|(9,?941|10,?000).*F
+1992	factoid	How hot is the sun?	(5,?778|6,?[05]00)\s*K|(5,?505|6,?[50]00).*C|(9,?941|10,?000).*F|5778\.0
 2128	factoid	What flavor filling did the original Twinkies have?	banana
 1840	factoid	What is the state song of Kansas?	Home on the Range
 1689	factoid	What war is connected with the book "Charge of the Light Brigade"?	Crimean
 10040	factoid	Where was the first atomic bomb detonated?	White Sands|New Mexico
 1647	factoid	What continent is Scotland in?	Europe
 1808	factoid	What island did the U.S. gain after the Spanish American war?	Cuba|Guam|Puerto Rico
-1439	factoid	How deep is Crater Lake?	1\s?,\s?932 feet|1,?949\s*f(ee|oo)?t|594\s*m
+1439	factoid	How deep is Crater Lake?	1\s?,\s?932 feet|1,?949\s*f(ee|oo)?t|594\s*m|593 m|593\.0|594\.0552
 1663	factoid	What are the people who make fireworks called?	Pyrotechnists
 1535	factoid	Who painted "Sunflowers"?	van Gogh
 10048	factoid	Who played Frodo in Lord of The Rings?	Wood
 10017	factoid	What is the capital of Laos?	Vientiane
-2364	factoid	How hot does it get in Death Valley?	\b134\b|56\.7|\b116\b|\b47\b
+2364	factoid	How hot does it get in Death Valley?	\b134\b|56\.7|\b116\b|\b47\b|56\.6\°C
 1550	factoid	What is the southwestern-most tip of England?	Cornwall
 1873	factoid	What is the motto for California?	.*Eureka.*
 2067	factoid	How many Great Lakes are there?	five
-10028	factoid	What is the name of the second Beatles album?	Second Album
+10028	factoid	What is the name of the second Beatles album?	Second Album|Introducing\.\.\. The Beatles
 10002	factoid	How many bombs were detonated in 2005 in London?	four|\b4\b
 2248	factoid	How many planets are in our solar system?	nine|\b9\b|eight|\b8\b
 2275	factoid	How big is the planet Venus?	3,?7[5-7][0-9]\s*miles|6,?05[0-9]\s*(km|kilometers)
 1617	factoid	When did the Klondike gold rush occur?	189[6789]
 2094	factoid	When was JFK born?	1917
 2344	factoid	What city hosted the 1936 Summer Olympics?	Berlin
-1850	factoid	What is Marilyn Monroe's real name?	Norma Jeane? (Baker|Mortenson)
-2149	factoid	How many Olympic gold medals did Carl Lewis win?	ten|\b10\b
+1850	factoid	What is Marilyn Monroe's real name?	Norma Jeane? (Baker|Mortenson)|Norma Jean
+2149	factoid	How many Olympic gold medals did Carl Lewis win?	ten|\b10\b|nine
 1402	factoid	What year did Wilt Chamberlain score 100 points?	1962
-1897	factoid	What is the name of the airport in Dallas Ft. Worth?	Dallas(\s\/\s|\-)Fort Worth International Airport
+1897	factoid	What is the name of the airport in Dallas Ft. Worth?	Dallas(\s\/\s|\-)Fort Worth International Airport|Dallas\/Fort Worth International Airport
 1822	factoid	Who was the captain of the Titanic?	Smith
 1588	factoid	When was Apollo 11 launched?	1969
 10019	factoid	What is the color of pea?	green|yellow
-1852	factoid	When did Henry VIII rule England?	16th\s*century|1509.*1547
+1852	factoid	When did Henry VIII rule England?	16th\s*century|1509.*1547|1509|1551|28 June 1491 \– 28 January 1547
 10073	factoid	what is the atomic number of molybdenum?	\b42\b
 2186	factoid	What are the measurements for a king-size bed?	76\s*(inch|").*80\s*(inch|")
 1456	factoid	What is the Keystone State?	Pennsylvania
 10081	factoid	what is the name of the Doctor's wife in the long eunning BBC TV series Doctor Who.	River Song
-1394	factoid	In what country did the game of croquet originate?	French
+1394	factoid	In what country did the game of croquet originate?	French|France|Great Britain and Switzerland \–
 1695	factoid	What breed was Roy Rogers' horse Trigger?	palomino
 1459	factoid	What is one national park in Indiana?	Indiana Dunes National Lakeshore
 2215	factoid	What are sounds too low for humans to hear called?	infrasonic|infrasound
@@ -63,7 +63,7 @@
 2378	factoid	How did Bob Marley die?	cancer|melanoma
 2080	factoid	What peace treaty ended WWI?	Versailles|Lausanne
 1773	factoid	What was Aaron Copland's most famous piece of music?	Appalachian Spring|Billy the Kid|Rodeo|Fanfare for the Common Man|Third Symphony
-10022	factoid	What is the density of gold?	\b19\.3.*cm|\b19,?3.*kg
+10022	factoid	What is the density of gold?	\b19\.3.*cm|\b19,?3.*kg|11\,340\ kg\/m3|19\.32 grams per cubic centimeter at 20 \°C
 1638	factoid	What city in Australia has rain forests?	Cairns|Daintree|Port Douglas
 2124	factoid	What organization did Paul Konerko first play major league baseball with?	Dodgers
 1752	factoid	When was the Oklahoma City bombing?	1995
@@ -84,24 +84,24 @@
 2335	factoid	How did Harry Chapin die?	car accident|car crash|traffic
 2302	factoid	How much did the first Barbie cost?	\b3\b|three
 2076	factoid	What company owns the soft drink brand "Gatorade"?	Quaker Oats|PepsiCo
-1424	factoid	Who won the Oscar for best actor in 1970?	George C. Scott
+1424	factoid	Who won the Oscar for best actor in 1970?	George C. Scott|Scott
 1772	factoid	Who invented the cotton gin?	Whitney
 10035	factoid	When was Maria Theresa born?	1717
 2360	factoid	What is the gift for the 20th anniversary?	china|platinum
 1651	factoid	What is another name for the North Star?	Polaris
 10056	factoid	how did stalin die?	stroke|cerebral hemorrhage
 1981	factoid	How long is the Great Barrier Reef?	1,?(200|250|400)\s*miles?|(2,?000|2,?300)\s*(km|kilometers)
-1463	factoid	What is the North Korean national anthem?	Patriotic Song|Aegukka
+1463	factoid	What is the North Korean national anthem?	Patriotic Song|Aegukka|Let Morning Shine|the national anthem
 1521	factoid	What year did Ellis Island open its doors to immigrants?	1892
-1797	factoid	How did Adolf Hitler die?	committed suicide
+1797	factoid	How did Adolf Hitler die?	committed suicide|Suicide|April 1945|Ballistic trauma
 1720	factoid	When a game of baseball is forfeited, what is the score?	9\s*[:-]\s*0
-2288	factoid	What animal is veal from?	cal(f|ves)|cows
+2288	factoid	What animal is veal from?	cal(f|ves)|cows|Cattle
 2336	factoid	How many layers of skin do we have?	\b3\b|seven|three|\b7\b
-1529	factoid	What is the oldest college bowl game?	Rose Bowl Game
+1529	factoid	What is the oldest college bowl game?	Rose Bowl Game|Rose Bowl
 1788	factoid	Who makes viagra?	Pfizer
 2089	factoid	On what Caribbean Island was Ponce de Leon governor?	Puerto Rico('s)?
-1699	factoid	What city is Purdue University in?	West Lafayette
-1928	factoid	how did Patsy Cline die	plane crash|crash.*plane
+1699	factoid	What city is Purdue University in?	West Lafayette|Lafayette
+1928	factoid	how did Patsy Cline die	plane crash|crash.*plane|Aviation accident or incident
 1723	factoid	What is Madonna's last name?	Ciccone
 10058	factoid	how long does light travel from sun to earth?	(49[0-9]|50[0-9])\s*s|8.*min
 1744	factoid	What car company invented the Edsel?	Ford
@@ -109,7 +109,7 @@
 1686	factoid	Who defeated the Spanish armada?	Drake|Engl(and|ish)
 2020	factoid	In which city would you find the Louvre?	Paris
 10055	factoid	how did hitler die?	suicide|ballistic|shoo?t
-10049	factoid	Who received the Nobel Prize in Physiology or Medicine in 1962?	((Crick|Watson|Wilkins).*){3}
+10049	factoid	Who received the Nobel Prize in Physiology or Medicine in 1962?	((Crick|Watson|Wilkins).*){3}|Francis Crick|Maurice Wilkins
 1566	factoid	What famous Spanish poet died in Spain's Civil War?	Lorca
 1726	factoid	What is the name of the canopy at a Jewish wedding?	c?hup?pah?|chipe|chuppot
 2047	factoid	How close is Mercury to the sun?	(3[56].*million|35,?980,?000)\s*miles|(57,?910,?000|5[78].*million)\s*(km|kilometers)
@@ -119,47 +119,47 @@
 2001	factoid	What rock band sang "A Whole Lotta Love"?	Led Zeppelin
 1943	factoid	What is the name of Ling Ling's mate?	Ahua|Hsing-Hsing|Tong Tong
 2073	factoid	How fast does light travel through space?	186,?(282|000) miles per second|(299,?792|300,?000) kilometers per second|299,?792,?458 met(re|er)s per second|671 million miles per hour
-2084	factoid	How many home runs did Babe Ruth hit?	714
-2286	factoid	What is an Indian flute made of?	cane|wood
-1527	factoid	When did the 6-day war begin?	June 5\s?, 1967
-1807	factoid	What is the range for the number of passengers a Boeing 747-400 airplane can carry?	416|524|660
+2084	factoid	How many home runs did Babe Ruth hit?	714|104
+2286	factoid	What is an Indian flute made of?	cane|wood|Bamboo
+1527	factoid	When did the 6-day war begin?	June 5\s?, 1967|1967
+1807	factoid	What is the range for the number of passengers a Boeing 747-400 airplane can carry?	416|524|660|Ansett Australia\'s retrofitted two Boeing 747\-400 series aircraft
 2353	factoid	What did Osama bin Laden's father do for a living?	construction|business
 1739	factoid	What is the full name of conductor Seiji?	Seiji Ozawa
-2362	factoid	How high is Pikes peak?	14,?11[0-9]\s*('|f(ee|oo)?t)|4,?30[0-9]\s*m
+2362	factoid	How high is Pikes peak?	14,?11[0-9]\s*('|f(ee|oo)?t)|4,?30[0-9]\s*m|more than 14000 ft
 1974	factoid	What is Richie's surname on "Happy Days"?	Cunningham
 1620	factoid	What year was the first Macy's Thanksgiving Day Parade held?	1924
 1882	factoid	What nationality is Sean Connery?	Scot(tish)?
 2159	factoid	What country singer's first album was titled "Storms of Life"?	Randy Travis
 10074	factoid	what is the critical angle of rainbow?	\b48\b
-1446	factoid	How did Mahatma Gandhi die?	\bshot|shooting
+1446	factoid	How did Mahatma Gandhi die?	\bshot|shooting|Assassination
 2328	factoid	What state was Amelia Earhart born in?	Kan(sas|.)
-1934	factoid	What is the play "West Side Story" based on?	Romeo and Juliet
-1407	factoid	When did the shootings at Columbine happen?	April 20\s?, 1999
+1934	factoid	What is the play "West Side Story" based on?	Romeo and Juliet|a 1961 American romantic musical drama film
+1407	factoid	When did the shootings at Columbine happen?	April 20\s?, 1999|1999|April 20
 2339	factoid	How did John Quincy Adams die?	stroke|cerebral hemorrhage
-2100	factoid	What did Caesar say before he died?	Et tu, Brute\?
+2100	factoid	What did Caesar say before he died?	Et tu, Brute\?|Brutus
 10076	factoid	what is the lowest prime number?	\b2\b
 2377	factoid	What country is the leading producer of rubber?	Thailand
 2090	factoid	What Ridley Scott movie is set in 180 a.d.?	Gladiator
-1654	factoid	Where is Prairie View A&M University?	Texas
+1654	factoid	Where is Prairie View A&M University?	Texas|United States
 1613	factoid	When was Benjamin Disraeli prime minister?	1868|1874|1880
-10051	factoid	Who wrote Pirate Jenny?	Weill
-1785	factoid	What body of water does the Euphrates River empty into?	Persian gulf
-1932	factoid	When did International Volunteers Day begin?	1985
+10051	factoid	Who wrote Pirate Jenny?	Weill|Bertolt Brecht
+1785	factoid	What body of water does the Euphrates River empty into?	Persian gulf|Shatt al\-Arab
+1932	factoid	When did International Volunteers Day begin?	1985|\(December 5\)
 1438	factoid	What body of water does the Colorado River flow into?	Gulf of California
 2003	factoid	How far is the distance for a free throw?	(15|19)\s*f(oo|ee)?t|(4.6|5.8)\s*m
 1971	factoid	What city is the Liberty Bell currently located in?	Philadelphia
 1541	factoid	What president is on a quarter?	Washington
-1872	factoid	How did Eva Peron die?	cervical cancer
-1692	factoid	How tall is the Eiffel Tower in France?	98(4|6)\s?-?\s?f(ee|oo)?t\.?|301\s*m
+1872	factoid	How did Eva Peron die?	cervical cancer|Cancer
+1692	factoid	How tall is the Eiffel Tower in France?	98(4|6)\s?-?\s?f(ee|oo)?t\.?|301\s*m|300m|300 m
 1552	factoid	What did Charles Babbage invent?	Analytic(al)? Engine|computer
-2065	factoid	What is a female moose called?	cows?
-1659	factoid	Where was Bob Dylan born?	Duluth\s?, Minn(\.,?|esota)?
-1584	factoid	When did George W. Bush get elected as the governor of Texas?	199(4|8)
-2012	factoid	How did Marty Robbins die?	heart attack|cardiac
+2065	factoid	What is a female moose called?	cows?|Female moose \(called
+1659	factoid	Where was Bob Dylan born?	Duluth\s?, Minn(\.,?|esota)?|Duluth|Minnesota
+1584	factoid	When did George W. Bush get elected as the governor of Texas?	199(4|8)|1995
+2012	factoid	How did Marty Robbins die?	heart attack|cardiac|Surgical complications
 1567	factoid	When did the Black Panther party start in California?	1966
 2265	factoid	How did Marjorie Kinnan Rawlings die?	cerebral hemorrhage
 1702	factoid	Whose business slogan is "Quality is job 1"?	Ford
-2070	factoid	What date did the U.S. civil war start?	April 12.*1861
+2070	factoid	What date did the U.S. civil war start?	April 12.*1861|1861
 1505	factoid	What is the currency used in China?	RMB|Ren?minbi|Yuan
 1935	factoid	What color is the top stripe on the U.S. flag?	red( stripe| color)?$
 1806	factoid	When was the first heart transplant?	1967
@@ -174,20 +174,20 @@
 1714	factoid	What province in Canada is Niagara Falls located in?	Ontario
 1592	factoid	When was the Reichstag burned down?	1933
 1865	factoid	What is the major crop grown in Arizona?	cotton
-1828	factoid	What was Thailand's original name?	Siam
+1828	factoid	What was Thailand's original name?	Siam|3\:1 THAILAND
 10020	factoid	What is the color of pee?	yellow|golden
-1789	factoid	What is the date of the Kent State Shooting?	May 4\s?, 1970
+1789	factoid	What is the date of the Kent State Shooting?	May 4\s?, 1970|1970|May 4
 1848	factoid	What was the name of the plane that dropped the Atomic Bomb on Hiroshima?	Enola Gay
 1927	factoid	How did George Washington die?	inflammatory quinsy|severe infection of the throat|throat infection|cynanche trachealis|inflammation|blee?d|epiglottitis
 1534	factoid	The sun is mostly made up of what two gasses?	hydrogen .*helium
 1598	factoid	Who was the baseball player given the nickname "Mr. October"?	Reggie Jackson
 2071	factoid	How many islands are there in Indonesia?	1[78],?(508|306|000)|8,?844
 2029	factoid	How many electoral votes does Tennessee have?	11
-1462	factoid	Where is the oldest synagogue in the United States?	Newport|New York
-2290	factoid	When was the piano made?	1700|1698|1[78].*century
+1462	factoid	Where is the oldest synagogue in the United States?	Newport|New York|Rhode Island
+2290	factoid	When was the piano made?	1700|1698|1[78].*century|1993
 10066	factoid	in which country was google founded?	\bU(nited|\.)?\s*S(tates|\.)?\b
 2160	factoid	What is the body temperature of a dog?	\b(100|102|38|39)\b
-10044	factoid	Who discovered the structure of DNA?	((Watson|Crick).*){2}
+10044	factoid	Who discovered the structure of DNA?	((Watson|Crick).*){2}|Crick|Watson
 2387	factoid	What country celebrates Guy Fawkes Day?	England|\bGB\b|Great Britain|\bUK\b|United Kingdom
 2218	factoid	What company manufactures Van Heusen shirts?	Phillips-Van Heusen|PVH
 1708	factoid	When was the Exxon Valdez Oil spill?	1989
@@ -196,17 +196,17 @@
 2282	factoid	What canal is between the Mediterranean Sea and the Red Sea?	Suez
 1829	factoid	How tall is the CNN Tower in Toronto?	553.*\s*m|1,?815.*\s*f(oo|ee)?t
 1508	factoid	What was Dale Evans' horse's name?	Buttermilk
-1653	factoid	How do you say "French fries" in French?	pommes frites
+1653	factoid	How do you say "French fries" in French?	pommes frites|frites
 1837	factoid	What year was Ebbets Field, home of Brooklyn Dodgers, built?	191[23]
 1479	factoid	Who composed "The Messiah"?	Handel
 2227	factoid	What is the Bluegrass state?	K(entuck)?y.?
 2231	factoid	What is a word spelled the same backward and forward called?	palindrome
 1710	factoid	What are the colors of the Italian flag?	((green|white|red)\s*,?\s*(and)?\s*){3}
 2330	factoid	What river is under New York's George Washington bridge?	Hudson
-2015	factoid	What building is the Academy of Country Music Awards held in?	MGM Grand Garden Arena
+2015	factoid	What building is the Academy of Country Music Awards held in?	MGM Grand Garden Arena|ACM
 10093	factoid	where is kiev ?	Ukraine|\bUA\b
 10029	factoid	What is the proton number of neon?	\b10\b|ten
-1569	factoid	When did the Vietnam War end?	(25|twenty-five) years ago|1975
+1569	factoid	When did the Vietnam War end?	(25|twenty-five) years ago|1975|1973
 2022	factoid	What English city does the prime meridian pass through?	Greenwich
 2088	factoid	How many rooms are in the White House?	132
 10097	factoid	which natural number immediately follows 41 and precedes 43?	\b42\b|fourty.?two
@@ -220,9 +220,9 @@
 2237	factoid	What album became the greatest selling album of all time?	Thriller
 10082	factoid	what is the name of the ninth episode of the seventh season of the animated television series Family Guy?	The Juice is Loose
 2176	factoid	when was Dante's "Inferno" written?	1300s|1308|1321|14th century
-1682	factoid	When was Martin Luther King Jr. born?	Jan(\s?\.?|uary)? 15\s?, 1929
+1682	factoid	When was Martin Luther King Jr. born?	Jan(\s?\.?|uary)? 15\s?, 1929|1929
 2134	factoid	What is Motley Crue's Nikki Sixx's real name?	Frank.*Feranna
-1425	factoid	What is the population of Maryland as of 2013?	(5.9|6) million|5,?928,?814
+1425	factoid	What is the population of Maryland as of 2013?	(5.9|6) million|5,?928,?814|5\.939 million
 1690	factoid	What does DEA stand for?	Drug Enforcement A(dministration|gency)
 1967	factoid	What party led Australia from 1983 to 1996?	ALP|Labor
 10031	factoid	When did Maria Theresa die?	1780
@@ -241,14 +241,14 @@
 2334	factoid	What did Peter Minuit buy for the equivalent of $24.00?	Manhattan
 2033	factoid	How many types of human blood are there?	four|\b4\b|eight|\b8\b|\b33\b
 1834	factoid	Which disciple received 30 pieces of silver for betraying Jesus?	Judas
-1919	factoid	How big is Mars?	diameter.*(4,?21[0-9]\s*miles|6[78][0-9][0-9]\s*(km|kilometers))|radius.*(2,?106\s*miles|3,?390\s*(km|kilometers))
+1919	factoid	How big is Mars?	diameter.*(4,?21[0-9]\s*miles|6[78][0-9][0-9]\s*(km|kilometers))|radius.*(2,?106\s*miles|3,?390\s*(km|kilometers))|3390km|3390 km|3\,389\.5 km
 1405	factoid	How many ounces are in a gallon?	128
 1815	factoid	What is Nicaragua's main industry?	tourism
 2098	factoid	What player has been the home run champion of the national league seven times?	Kiner
 1867	factoid	Which Italian city is home to the Cathedral of Santa Maria del Fiore or the Duomo?	Florence
 1540	factoid	What is the deepest lake in America?	Crater|Great Slave
 1441	factoid	What is the coldest place on earth?	Antarctica?|South Pole|Vostok Station
-1643	factoid	Who founded Rhode Island?	Roger Williams
+1643	factoid	Who founded Rhode Island?	Roger Williams|Williams
 2068	factoid	What animal is responsible for the most human deaths worldwide?	mosquito
 2056	factoid	What band did former Red Hot Chili Peppers guitarist Dave Navarro start out with?	Jane's Addiction
 1416	factoid	When was Wendy's founded?	1969
@@ -258,7 +258,7 @@
 1801	factoid	Where is the smallest bone in the body?	ear
 2117	factoid	What college did Marcus Camby play for?	University of Massachusetts
 1473	factoid	When was Lyndon B. Johnson born?	1908
-1513	factoid	What is the current population in Bombay, India as of 2011?	12(.[45])? million|18(.4)? million|20(.7)? million|12,478,447|18,414,288
+1513	factoid	What is the current population in Bombay, India as of 2011?	12(.[45])? million|18(.4)? million|20(.7)? million|12,478,447|18,414,288|12\,442\,373
 1820	factoid	When is Mexico's independence?	18(10|21)
 1759	factoid	Who wrote "Fiddler on the Roof?"	Sheldon Harnick
 1618	factoid	Where is bile produced?	liver
@@ -268,24 +268,24 @@
 2191	factoid	What city is the gateway arch located in?	St.*?Louis
 10013	factoid	What does Tardis stand for?	Time and Relative Dimension in Space
 1475	factoid	Who was the first person to reach the south pole?	Amundsen
-10038	factoid	When was Watt's steam engine invented?	1765|177[46]
+10038	factoid	When was Watt's steam engine invented?	1765|177[46]|1763 to 1775
 1429	factoid	What was Andrew Jackson's wife's name?	Rachel
 1626	factoid	What is Buzz Aldrin's real first name?	Edwin
 2055	factoid	What dessert is made with poached peach halves, vanilla ice cream, and raspberry sauce?	PEACH MELBA
 2266	factoid	What substance did Charles Best and Frederick Banting discover in 1922?	insulin
 1600	factoid	What automobile company makes the Spider?	Alfa Romeo|Fiat
 1604	factoid	What does R&B stand for?	rhythm and blues
-10021	factoid	What is the critical mass of Plutonium?	\b(9|10)(\.[0-9]*)?\s*k(ilo)?g
+10021	factoid	What is the critical mass of Plutonium?	\b(9|10)(\.[0-9]*)?\s*k(ilo)?g|11 kg \(24\.2 lbs\)\, 10\.2 cm \(4\"\) in diameter\.
 1849	factoid	What is the nickname of Oklahoma?	Sooners?( State)?
-1636	factoid	When was the battle of Chancellorsville fought?	1863
-1861	factoid	Where was Bill Gates born?	Seattle
-2037	factoid	How did Iowa get its name?	(Siouan|indian).*(ayuhwa|ouaouia|asleep)
+1636	factoid	When was the battle of Chancellorsville fought?	1863|April 30
+1861	factoid	Where was Bill Gates born?	Seattle|Washington|United States of America
+2037	factoid	How did Iowa get its name?	(Siouan|indian).*(ayuhwa|ouaouia|asleep)|the Ioway people|named after the Iowa River\, which was named for the Ioway natives living at its banks\.|The state of Iowa\, originally a territory of Wisconsin west of the Mississippi River\, was named after the Iowa River\.
 10046	factoid	Who is author of cryptonomicon?	Stephenson
 1711	factoid	When was the first jet invented?	1928
-2057	factoid	How many children did Bob Marley have?	seven|\b7\b
+2057	factoid	How many children did Bob Marley have?	seven|\b7\b|11
 1870	factoid	What country is Pretoria in?	South(\s|_)African?
 1982	factoid	What movie won the Academy Award for best picture in 1989?	Driving Miss Daisy
-2189	factoid	What animal can go the longest without water?	kangaroo rat
+2189	factoid	What animal can go the longest without water?	kangaroo rat|Giraffe
 2010	factoid	What island was Napoleon exiled to after his defeat at Waterloo?	(St\.?|Saint) Helena
 10012	factoid	What did James Watson and Francis Crick discover?	DNA|deoxyribonucleic
 1539	factoid	What is Ronald Reagan's favorite candy?	Jelly Belly|jelly\s?beans?
@@ -293,7 +293,7 @@
 1660	factoid	What is Elvis Presley's middle name?	Aa?ron
 2075	factoid	What city in Louisiana was Britney Spears born in?	Kentwood
 2120	factoid	What does "CBS" (television network) stand for?	Columbia Broadcasting System
-1532	factoid	What is the literacy rate in Cuba?	99.8\s*(percent|%)
+1532	factoid	What is the literacy rate in Cuba?	99.8\s*(percent|%)|97\%
 1985	factoid	What is the Cav's arena name?	Gund|Quicken Loans
 1926	factoid	When was the U.S. capitol built?	179[03-9]|1800
 1776	factoid	What year did the first American lighthouse open?	1716
@@ -308,14 +308,14 @@
 10007	factoid	In what city the first nuclear bomb exploded?	Hiroshima
 2230	factoid	What dam is said the be the largest hydroelectric station in the world?	Three Gorges|Itaipu
 2276	factoid	When was Mariah Carey born?	March 27|1969|1970
-2205	factoid	How many cabinet officers are there?	\b(14|15|22|23)\b
+2205	factoid	How many cabinet officers are there?	\b(14|15|22|23)\b|the executive branch of the federal government of the United States\, who are
 2354	factoid	How did Anne Frank die?	typhus|concentration camp
 1998	factoid	How old was Babe Ruth when he died?	53
 2155	factoid	What country is home to Sabena Airlines?	Belgi(a|u)(m|n)
-1833	factoid	How tall is Mike Tyson?	5\s*(f(ee|oo)?t|')\s*10\s*(in(ch.*)?|")
+1833	factoid	How tall is Mike Tyson?	5\s*(f(ee|oo)?t|')\s*10\s*(in(ch.*)?|")|1\.78|178 cm tall
 2371	factoid	What type of bee drills holes in wood?	carpenter
 1467	factoid	What year did South Dakota become a state?	1889
-1579	factoid	Which country exports the most tea?	Sri Lanka
+1579	factoid	Which country exports the most tea?	Sri Lanka|India|Kenya
 2145	factoid	What does a theodolite measure?	angle
 2032	factoid	What sporting event first took place in 1903?	Tour de France
 1718	factoid	When was the White House built?	1(792|800)
@@ -333,7 +333,7 @@
 1683	factoid	What name is horror actor William Henry Pratt better known by?	Boris Karloff
 1621	factoid	What is the name of the country in the Pyrenees mountains between France and Spain?	Andorra
 2390	factoid	What ancient tribe of Mexico left behind huge stone heads?	Olmecs?
-2104	factoid	When was the first submarine not using human-powered propulsion invented?	July 1863
+2104	factoid	When was the first submarine not using human-powered propulsion invented?	July 1863|1914|1863
 1556	factoid	What cemetery is Thurgood Marshall buried in?	Arlington
 1547	factoid	What is the atomic number of uranium?	92
 10052	factoid	What is the chemical formula of methane?	C.*H.*4
@@ -342,25 +342,25 @@
 1444	factoid	What female leader succeeded Ferdinand Marcos as president of the Philippines?	Corazon Aquino
 2376	factoid	What color belt is first in karate?	white
 1528	factoid	Where did Kublai Khan live?	Beijing|China
-1442	factoid	What is the chemical formula for sulphur dioxide?	SO2
+1442	factoid	What is the chemical formula for sulphur dioxide?	SO2|the chemical compound
 1565	factoid	What is Karl Malone's nickname?	The Mailman
 1830	factoid	What city does the Tour de France end in?	Paris
 1419	factoid	What year did Alaska become a state?	1958|1959
-1782	factoid	Who was the first woman to run for president?	Pamfilova|Victoria Woodhull
-2028	factoid	What are the biggest snakes in the world?	anaconda|reticulated python|titanoboa
+1782	factoid	Who was the first woman to run for president?	Pamfilova|Victoria Woodhull|Woodhull
+2028	factoid	What are the biggest snakes in the world?	anaconda|reticulated python|titanoboa|Gigantophis|Burmese python
 1994	factoid	What was the Beatles' first number one hit?	Please Please Me|From Me To You
 1681	factoid	When did Houdini die?	1926
-10023	factoid	What is the density of water?	\b(1|0\.9.*)\s*g|\b(1,?000|9.*)\s*kg
-1418	factoid	When was the Rosenberg trial?	1951
+10023	factoid	What is the density of water?	\b(1|0\.9.*)\s*g|\b(1,?000|9.*)\s*kg|cubic centimeter|approximately one gram
+1418	factoid	When was the Rosenberg trial?	1951|1953|May 12
 1560	factoid	What was Denzel Washington's first television series?	St. Elsewhere
 1836	factoid	What river runs through Rome, Italy?	Tiber
 1427	factoid	What was the first spaceship on the moon?	Eagle
 2066	factoid	What is tequila made from?	agave
-1688	factoid	What year was the gateway arch built?	1965
+1688	factoid	What year was the gateway arch built?	1965|1963
 1411	factoid	What Spanish explorer discovered the Mississippi River?	Hernando de Soto
-1811	factoid	When was penicillin first used?	194(0s|1|2|7)
+1811	factoid	When was penicillin first used?	194(0s|1|2|7)|1943|But it was not until 1928 that penicillin\, the first true antibiotic\, was discovered by Alexander Fleming\, Professor of Bacteriology at St\. Mary\'s Hospital in London\.
 2133	factoid	When was Abraham Lincoln born?	1809.*?
-1662	factoid	When was Jerusalem invaded by the general Titus?	70 A.D.|70\s*AD|AD\s*70|A.D.\s*70
+1662	factoid	When was Jerusalem invaded by the general Titus?	70 A.D.|70\s*AD|AD\s*70|A.D.\s*70|70
 1821	factoid	Who was the architect who designed the Empire State Building?	Lamb
 2000	factoid	How many Earth days does it take for Mars to orbit the sun?	68[67]
 2261	factoid	What college did Magic Johnson go to?	Michigan State
@@ -370,22 +370,22 @@
 1991	factoid	How did Minnesota get its name?	Sioux.*river|river.*Sioux
 1839	factoid	What country was formed in 1948?	Burma|Israel|Myanmar
 1397	factoid	What was the largest crowd to ever come see Michael Jordan?	62,?046
-1414	factoid	What was the length of the  Wright brothers' first flight?	120\s?\-?\s?f(ee|oo)?t
+1414	factoid	What was the length of the  Wright brothers' first flight?	120\s?\-?\s?f(ee|oo)?t|852 feet
 2315	factoid	How many tentacles do squids actually have?	two|\b2\b
-1645	factoid	How much is the international space stations expected to cost?	\$ 95 billion|\$60 billion|about \$ 50 billion|more than 100 billion dollar|150\s*(billion|bn)
+1645	factoid	How much is the international space stations expected to cost?	\$ 95 billion|\$60 billion|about \$ 50 billion|more than 100 billion dollar|150\s*(billion|bn)|\$100
 2131	factoid	Who was the first African-American speaker of the California State Assembly?	Brown
-1736	factoid	Where on the body would you find the jowls?	cheek
+1736	factoid	Where on the body would you find the jowls?	cheek|Face
 1477	factoid	What are wavelengths of visible light measured in?	angstrom|nanometers|^nm
 1824	factoid	Which planet did the spacecraft Magellan enable scientists to research extensively?	Venus
 1855	factoid	How fast is the world spinning?	1,?0[34][0-9]\s*(miles per hour|mph)|1,?6[67][0-9]\s*(kilometers per hour|km.*h)
-2136	factoid	How many moons does Neptune have?	eight|\b8\b
+2136	factoid	How many moons does Neptune have?	eight|\b8\b|14
 1576	factoid	What galaxy is closest to the milky way?	Andromeda
 1595	factoid	What person developed COBOL?	Hopper
 2122	factoid	What is the inner peel of an orange called?	pith
 1781	factoid	What year did "Snow White" come out?	1937
-1784	factoid	What is the scientific name for leech?	Hirudo medicinalis
-2165	factoid	What date was the Declaration of Independence signed on?	Aug. 2, 1776|July 4.*?1776
-1637	factoid	What is the name of the five pointed star commonly used by Satanists?	baphomet|pentagrams?
+1784	factoid	What is the scientific name for leech?	Hirudo medicinalis|Hirudo
+2165	factoid	What date was the Declaration of Independence signed on?	Aug. 2, 1776|July 4.*?1776|July 4
+1637	factoid	What is the name of the five pointed star commonly used by Satanists?	baphomet|pentagrams?|The five point star
 1447	factoid	What is the capital of Syria?	Damascus
 1531	factoid	What does NASDAQ stand for?	National Association of Securities Dealers Automated Quotations?
 10090	factoid	when did vikings colonize greenland?	\b98[0-9]\b|10th century
@@ -400,26 +400,26 @@
 1969	factoid	What does ACLU stand for?	American Civil Liberties Union
 2127	factoid	What country did Panama gain its independence from?	Colombia
 1609	factoid	What is the currency of Bolivia called?	BOB|boliviano
-2337	factoid	How did Joseph Smith die?	mob|assassin|lynch|shoo?t
+2337	factoid	How did Joseph Smith die?	mob|assassin|lynch|shoo?t|Murder|Firearm
 2129	factoid	How many home runs did Henry "Hank" Aaron hit in his major league career?	755
 1742	factoid	When did the Mesozoic period end?	6[56] million years ago
-1606	factoid	What is the boiling point of water?	212\s*(.|degrees?)\s*F|100\s*(.|degrees?)\s*C
+1606	factoid	What is the boiling point of water?	212\s*(.|degrees?)\s*F|100\s*(.|degrees?)\s*C|100 o|101\.325
 2152	factoid	When was the Great Wall of China built?	2,?000 years ago|7th century BC|6.. BC|2[0-2]. BC|Ming
 2102	factoid	What American landmark stands on Liberty Island?	Statue of Liberty
 2289	factoid	What continent is Togo on?	African?
 10071	factoid	what is the answer to ultimate question of life, universe and everything?	\b42\b|fourty-two
 1956	factoid	What country is the largest in square miles?	Russia
 1983	factoid	When was Lyndon B. Johnson president?	1963.*69
-1916	factoid	What city did Duke Ellington live in?	New York|Washington
+1916	factoid	What city did Duke Ellington live in?	New York|Washington|North Carolina
 1859	factoid	What branch of the military has its academy in Annapolis?	Nav(al|y)
 1700	factoid	Where is America's Stonehenge?	Mystery Hill|N.H.|Salem(, New Hampshire)?|South of Manchester
-2295	factoid	What 1857 U.S. Supreme Court decision denied that blacks were citizens?	Dred Scott
+2295	factoid	What 1857 U.S. Supreme Court decision denied that blacks were citizens?	Dred Scott|Supreme Court
 1713	factoid	What is the name of the phobia for number 13?	Triskaidekaphobia
 1856	factoid	What city is known as the rubber capital of the world?	Akron,?
 2121	factoid	What artist recorded the song "At Last" in the 40's or 50's?	Etta James
 10057	factoid	how long are spaghetti?	(25|30|50)\s*c(enti)?m|(10|12|20)\s*("|in)
 1615	factoid	What is Africa's largest country?	Sudan|Algeria|Nigeria
-10099	factoid	who are the inventors of the first transistor?	((Bardeen|Shockley|Brattain).*){3}
+10099	factoid	who are the inventors of the first transistor?	((Bardeen|Shockley|Brattain).*){3}|Bardeen|Shockley|Brattain
 10010	factoid	What currency is used in Christiania?	L[oø]n
 1911	factoid	What is the name of the chart that tells you the symbol for all chemical elements?	periodic (table|chart)
 10094	factoid	where was jesus born?,	Bethlehem
