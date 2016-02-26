@@ -93,21 +93,13 @@ and may not fulfill the above constraints.  The aim of this dataset is to
 check behavior of QA systems when given larger, noisy training data,
 exploring generalization capabilities of systems.
 
-The **large2180** dataset is built by adding TREC 1999, 2000, 2001 data
-to the curated dataset.  Unmodified questions of each year were shuffled
-and 80% were added to the train split, 20% to the test split.  This way,
-we fulfill our goal of boosting the training set, while propagating
-possible per-year biases to the test set as well and somewhat controlling
-for benchmark noise.  However, it may be also valid to check system
-performance with **large2180** training and **curated** testing set;
-XXX this is still not finalized, we may yet decide to keep the original
-testing set and throw everything in just the training set!
+The **large2470** dataset is built by adding TREC 1999, 2000, 2001 data
+to the curated dataset.  We also added questions asked on live.ailao.eu with
+user feedback until Feb 25, 2016.  Unmodified questions were shuffled
+and 80% were added to the train split, 20% to the test split.  Gold standard
+was revised by Mechanical Turk.
 
-Note that while **curated-train** is to be used also as the development
-set, **large2180-train** *should not* be used for development.  We may
-relax this based on some future consensus, but for now let's be conservative.
-
-The dataset is called **large2180**, which refers to the number of questions
+The dataset is called **large2470**, which refers to the number of questions
 in the dataset.  We may build even larger datasets (e.g. including the
 WebQuestions, TREC years 2004+, QALD challenges or such) of similar nature
 in the future.
@@ -122,13 +114,13 @@ are three issues with that:
     splits of the datasets for their development, something we would like
     to discourage.
 
-  * Noise.  The large2180 dataset is already relatively low quality,
+  * Noise.  The large2470 dataset is already relatively low quality,
     some questions are really arbitrary and not answerable using public
     knowledge bases.  The problem is even worse when we also consider the
     answer patterns, which may unfairly disqualify many correct answers,
     and worse this adds question type bias (probably almost no numerical
     quantity answers will pass the pattern muster, but years or names
-    typically will).  Beyond the large2180 dataset, e.g. the WebQuestions
+    typically will).  Beyond the large2470 dataset, e.g. the WebQuestions
     dataset also contains typos in questions or downright mistakes; this
     is not unrealistic, but adds extra burden to authors of early systems;
     furthermore, the answer patterns based on Freebase will create an

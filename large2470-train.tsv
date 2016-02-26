@@ -698,7 +698,7 @@
 395	factoid	What is saltpeter?	ingredient.*gunpowder|potassium\s+nitrate
 715	factoid	What could I see in Reims?	Champagne\s+country|Hotel\s+Les\s+Consuls|Le\s+Vigneron|Red\s+Cross|TOUR\s+DE\s+FRANCE|cathedrals?|champagne.*museum|champagne\s+cellars?|champagne\s+houses?|grape\s+harvest|new\s+exposition\s+hall|reception\s+centers|temporary\s+quarters
 703	factoid	Winnie the Pooh is an imitation of which animal?	Pooh.+bears?|^\s*bears?\s*$|bear.+Milne|bear\s+of\s+little\s+brain|bears.+intelligent|bears\s+kind\s+of\s+talk|black\s+bear.+connection|famous\s+(little\s+)?bear|real\s+bear|sun\s+bears?|the\s+wall\s*,?\s+bear|Teddy bear
-462	factoid	What is measured in curies?	RAO|contamination|iodine|nuclear.+polluted|radiation|radioactive|radioactivi?ty|tritium|wastes?|xenon|the French physicist Marie Curie|Sievert \(Sv\)\	1 Sv \= 100 rem Sv \= Gy x Q|A unit used to measure the \.\.\. Marie\; Curie\, Marie\; Curie\, Marie\; Curie\, Pierre\;
+462	factoid	What is measured in curies?	RAO|contamination|iodine|nuclear.+polluted|radiation|radioactive|radioactivi?ty|tritium|wastes?|xenon|the French physicist Marie Curie
 331	factoid	How hot is the core of the earth?	5\s*,?\s*000\s+degrees\s+Celsius|5\s*,?\s*400\s+degrees\s+Fahrenheit|9\s*,?\s*000\s+degrees\s+Fahrenheit|6\,000 C|6230 \± 500 kelvins
 502	factoid	What is one of the cities that the University of Minnesota is located in?	Crookston|University\s+of\s+Minnesota.+Minneapolis|University\s+of\s+Minnesota\s*-?\s*Duluth|University\s+of\s+Minnesota\s+in\s+Duluth|in\s+Minneapolis|of\s+Minnesota\s*,?\s+Minneapolis|of\s+Minnesota\s*,?\s+\(REF:\s*Minneapolis|of\s+Minnesota\s+Medical\s+Center\s*,?\s+Minneapolis|the\s*University\s+of\s+Minnesota\s+in\s+Duluth|St\. Paul|Minneapolis
 325	factoid	What is the size of Argentina?	size.*India|2\.78 million km|2\,780\,400 km2 \(1\,073\,500 sq mi\)
@@ -1477,3 +1477,221 @@
 915	factoid	What is a biosphere?	Earth and its environment|the global sum of all ecosystems|Different parts of the Earth inhabited by living organisms\.|the regions of the surface and atmosphere of the earth or another planet occupied by living organisms\.
 1017	factoid	Who discovered America?	Christopher Bonde|_?Columbus?_?
 1348	factoid	How cold should a refrigerator be?	35|35 to 40 degre(es)?|between 32 and 40 degrees
+lfb000073	factoid	who wrote "one ring to bind them all"?	J\.R\.R\. Tolkien|Sauron
+lfb000074	factoid	When did the RMS Titanic sink?	1912
+lfb000075	factoid	Where is mula river?	Pune|India
+lfb000076	factoid	What is the answer to life, the universe, and everything?	42
+lfb000077	factoid	Who is the most successful ice hockey player from Czech Republic?	J\ágr|Jarom\ír J\ágr
+lfb000078	factoid	Who wrote Merchant of Venice?	William Shakespeare
+lfb000079	factoid	Who is Germany's current chancellor?	Angela Merkel
+lfb000080	factoid	Who wrote the Titanic film?	Cameron
+lfb000081	factoid	Where is La Joconde	Paris
+lfb000082	factoid	When did Homer live?	ca\. 8th century BC
+lfb000083	factoid	Who is the current president of Czech Republic?	Milo\š Zeman
+lfb000084	factoid	Who is the US president?	Barack Obama
+lfb000085	factoid	What time Steve Jobs died	2011
+lfb000086	factoid	What does water consist of?	hydrogen|oxygen
+lfb000087	factoid	when was czechoslovakia founded?	1918
+lfb000088	factoid	"Which movie by the Coen brothers stars John Turturro in the role of a New York City playwright?"	Barton Fink
+lfb000089	factoid	when started the stalingrad battle	1942|1942\-08\-23
+lfb000090	factoid	Who was the first president of united states?	George Washington
+lfb000091	factoid	WHERE IS tajmahal located	India
+lfb000092	factoid	What is Gitlab?	a software repository manager
+lfb000093	factoid	Who is the president of France?	Fran\çois Hollande
+lfb000094	factoid	Who created War Thunder	Gaijin Entertainment
+lfb000095	factoid	What color is coffee?	black
+lfb000096	factoid	How many liters are one pint?	0\.47|2\.11 pints 1 pint \= 0\.47 liter
+lfb000097	factoid	who is mister putin	president of Russia|Russian president
+lfb000098	factoid	what is color of sky?	Blue|Blue and white
+lfb000099	factoid	Who is the singer of the rolling stones?	Mick Jagger
+lfb000100	factoid	Who is Obama's husband?	Michelle Obama
+lfb000101	factoid	What year did Forrest Gump win Best Picture?	1994
+lfb000102	factoid	Who is Karel Zeman?	director|production designer|animator|artist
+lfb000103	factoid	How high is Mt. Everest	8848 m above sea level
+lfb000104	factoid	What is the capital of Hungary?	Budapest
+lfb000105	factoid	How many states are in the US?	50 states and a federal district|50
+lfb000106	factoid	who made titanic?	James Cameroon
+lfb000107	factoid	who wrote Krypton Egg for Amiga?	Alexandre Kral
+lfb000108	factoid	when was the czech republic founded?	1993\-01\-01
+lfb000109	factoid	which company bought whatsapp?	Facebook
+lfb000110	factoid	Where was gandhi bor	India|Porbandar|New Delhi
+lfb000111	factoid	who did create the telephone?	Alexander Graham Bell
+lfb000112	factoid	What is the name of the second US astronaut to land on the moon?	Buzz Aldrin
+lfb000113	factoid	What is Skyrim?	an open\-world action role\-playing game
+lfb000114	factoid	what is the definition of metabolic syndrome in humans?	MetS.*obesity
+lfb000115	factoid	where is batman?	Gotham City
+lfb000116	factoid	Where is CTU?	Prague
+lfb000117	factoid	who is jenson button?	driver
+lfb000118	factoid	What structure can be found in both a virus and a cell?	nucleic acid chain
+lfb000119	factoid	who plays tyler durden in fight club?	Brad Pitt
+lfb000120	factoid	Who is the founder of Google?	Larry Page|Sergey Brin
+lfb000121	factoid	what is a VLAN?	virtual local area network
+lfb000122	factoid	How many quarters are in a dollar?	4
+lfb000123	factoid	what is the diameter of the Sun	1\,392\,000 km|about 109 times that of Earth
+lfb000124	factoid	Who wrote the Odyssey?	Homer
+lfb000125	factoid	what's the capital of taiwan	Taipei
+lfb000126	factoid	Who is the ceo of E-Group?	Antal Kuthy
+lfb000127	factoid	who wrote Minecraft?	Mojang|Markus Persson
+lfb000128	factoid	what is the capital of India?	New Delhi
+lfb000129	factoid	Who wrote the novel "The Martian"?	Andy Weir
+lfb000130	factoid	What awards did Sean Connery win?	Academy Award|Golden Globe|Sundance Film Festival Award|MTV Movie Award
+lfb000131	factoid	what is a wormhole	a hypothetical topological feature of spacetime|a hypothetical topological feature that would fundamentally be a shortcut through spacetime
+lfb000132	factoid	What is the highest mountain in Czech Republic?	Snow Mountain|Sn\ě\žka
+lfb000133	factoid	Who directed Star Wars I	Lucas|George Lucas
+lfb000134	factoid	what is the best electric car in the world?	Tesla Model S
+lfb000135	factoid	what is the active ingredient in tylenol	Paracetamol
+lfb000136	factoid	Who wrote The Martian	Andy Weir
+lfb000137	factoid	What is the treatment for low HDL?	cardiovascular exercise
+lfb000138	factoid	Who is the current CEO of Apple?	Tim Cook
+lfb000139	factoid	Who is the leader of Boko Haram?	Abubakar Shekau
+lfb000140	factoid	The Capital of Uganda	Kampala
+lfb000141	factoid	When was jesus born?	December 25
+lfb000142	factoid	Who is Ron Fagin ?	An American computer scientist and IBM Fellow at the IBM Almaden Research Center
+lfb000143	factoid	who invented the light bulb?	Thomas Edison|Edison
+lfb000144	factoid	Who is currently the first lady of the USA?	Michelle Obama
+lfb000145	factoid	what is GTA?	Grand Theft Auto IV
+lfb000146	factoid	where is Maharastra	India
+lfb000147	factoid	What is artificial intelligence?	computer science.*intelligent machines
+lfb000148	factoid	Who wrote the brief history of time	Stephen Hawking
+lfb000149	factoid	who is luke's father?	Darth Vader
+lfb000150	factoid	What horror movie did Tom Cruise star in?	Interview with a Vampire
+lfb000151	factoid	Where is New York City?	New York|United States of America|the United States
+lfb000152	factoid	What is the highest mountain?	Mount Everest
+lfb000153	factoid	Who's the president of Venezuela	Nicol\ás Maduro
+lfb000154	factoid	What's the highest mountain in the world?	Everest|Mount Everest
+lfb000155	factoid	what is height of eiffel tower	300|300\.65|324 m
+lfb000156	factoid	When was La Joconde painted	1503
+lfb000157	factoid	Who wrote about the Discworld?	Terry Pratchett
+lfb000158	factoid	when did Elvis born	1935\-01\-08
+lfb000159	factoid	who wrote Krypton Egg for Atari ST?	Alexandre Kral
+lfb000160	factoid	who starred in the martian?	Matt Damon
+lfb000161	factoid	node js development IDE	Atom|Brackets|WebStorm|Visual Studio|Nodeclipse|Netbeans|Codeanywhere|Koding
+lfb000162	factoid	What is the place called within Earth's crust where the earthquake originated?	focus
+lfb000163	factoid	who is the president of china?	Xi Jinping
+lfb000164	factoid	WHat is the value of pi?	3\.14
+lfb000165	factoid	How far is Saturn from the sun?	1\.50E\+09
+lfb000166	factoid	What is the capital of The Netherlands?	Amsterdam
+lfb000167	factoid	who is the president of russia?	Vladimir Putin
+lfb000168	factoid	who is Adele	Singer
+lfb000169	factoid	Who wrote ender`s game	Orson Scott Card
+lfb000170	factoid	What's ontology?	categories\.\*relations|formal\.\*types\.\*relations
+lfb000171	factoid	Who is the CEO of Microsoft?	Satya Nadella
+lfb000172	factoid	Who is the author of Harry Potter?	J\. K\. Rowling
+lfb000173	factoid	What engine did He 162 use?	a top\-mounted BMW 003 jet engine
+lfb000174	factoid	Who is J.R.R. Tolkien	philologist J\. R\. R\. Tolkien|English writer and philologist J\. R\. R\. Tolkien|writer|author
+lfb000175	factoid	What country is Prague in	Czech Republic
+lfb000176	factoid	what is son su shi?	a video game
+lfb000177	factoid	Population of torrance, ca	147\,478
+lfb000178	factoid	Who played princess Amidala?	Natalie Portman
+lfb000179	factoid	when was george lucas born?	1944|1944\-05\-14|May 14\, 1944
+lfb000180	factoid	what is the hbase ?	database.*BigTable
+lfb000181	factoid	List the biggest nuclear explosions in Russia	the Chernobyl disaster
+lfb000182	factoid	what color is the sun?	yellow
+lfb000183	factoid	which company acquired instagram?	Facebook
+lfb000184	factoid	where is Hanoi	Vietnam
+lfb000185	factoid	what is a dollar	A unit of a currency|It\'s equivalent to 100 pennies
+lfb000186	factoid	Where is El Capitan?	Yosemite National Park
+lfb000187	factoid	When was the Chernobyl accident?	1986|April 1986|April 26\, 1986|1986\-04\-26T01\:23\:04|1986\-04\-26T01\:23\:50|1986\-04\-26
+lfb000188	factoid	What are the symptoms of lyme disease	erythema migrans|flu\-like symptoms|fever
+lfb000189	factoid	Who was the first president of the Czechoslovakia?	Tom\á\š Garrigue Masaryk
+lfb000190	factoid	when was the chernobyl disaster	1986|April 1986
+lfb000191	factoid	where is china	East Asia
+lfb000192	factoid	Who is both actor and a politician?	Poitier|Regan|Stropnick\ý
+lfb000193	factoid	Which river flows through Turnov?	Jizera
+lfb000194	factoid	the writer of harry potter	J\.K\. Rowling
+lfb000195	factoid	What is the highest mountain in the world?	Mount Everest
+lfb000196	factoid	Where is Tunisia?	Africa|North Africa
+lfb000197	factoid	who's the CEO of google?	Schmidt
+lfb000198	factoid	How high is Mount Everest?	29\,\?028\.\*f\.\*t|8848
+lfb000199	factoid	what is a husky	a general name for a type of dog used to pull sleds in northern regions\, differentiated from other sled\-dog types by their fast pulling style|sled\.\*dog
+lfb000200	factoid	Which river flows through Prague?	Vltava
+lfb000201	factoid	Who wrotes about Midkemia?	Raymond E\. Feist
+lfb000202	factoid	Which function do kidneys provide to maintain homeostasis?	nitrogenous waste
+lfb000203	factoid	How many chromosomes do humans have?	23 pairs|46
+lfb000204	factoid	What's the capital of belgium?	Brussels
+lfb000205	factoid	who is the first president of india?	Rajendra Prasad
+lfb000206	factoid	What is Jeopardy	America\’s Favorite Quiz Show\®
+lfb000207	factoid	who is the ruling monarch of England?	Elisabeth II
+lfb000208	factoid	what is the height of barack obama?	six feet
+lfb000209	factoid	What is the highest mountain in Africa?	Kilimanjaro
+lfb000210	factoid	Who is the prime minister of Hungary?	Viktor Orb\án
+lfb000211	factoid	Who directed Resident Evil	Paul W\. S\. Anderson
+lfb000212	factoid	who is Batman	superhero|fictional character|character
+lfb000213	factoid	what is HDMI	audio/video interface|High\-Definition Multimedia Interface
+lfb000214	factoid	What types of cells are found only in organisms that reproduce sexually?	gametes
+lfb000215	factoid	When was Feast for Crows published?	2005|October 2005|October 17|2005\-10\-17
+lfb000216	factoid	When WW2 finished?	7 May 1945
+lfb000217	factoid	What is height of Barack Obama	6\'1\"|six feet\, one inch|1\.85
+lfb000218	factoid	When was Václav Havel born?	1936|October 1936|October 5\, 1936|1936\-10\-05
+lfb000219	factoid	Who wrote A Tale of Two Cities?	Charles Dickens
+lfb000220	factoid	Who won Australian Open in 2015?	Serena Williams
+lfb000221	factoid	what is the name of the latest star wars movie	an Episode VII|Star Wars\: The Force Awakens
+lfb000222	factoid	Who is Abubakar Shekau	Boko Haram|the leader
+lfb000223	factoid	Who is Yoda?	Jedi
+lfb000224	factoid	What is SSL?	Secure Socket Layer
+lfb000225	factoid	when was Apple established	1977
+lfb000226	factoid	how big is the sun	More than 1 million Earths|1392020 km
+lfb000227	factoid	who is the 40th united states president	Ronald Reagan
+lfb000228	factoid	Where is the Brandenburg gate	Berlin|Germany|Berlin\, Germany
+lfb000229	factoid	who is prime minister of india	Narendra Modi
+lfb000230	factoid	who is bibi from israel?	Benjamin Netanyahu
+lfb000231	factoid	Who wrote I robot.	Asimov|Isaac Asimov
+lfb000232	factoid	Who wrote war and peace	Tolstoy|Leo Tolstoy
+lfb000233	factoid	What's the capital of France?	Paris
+lfb000234	factoid	what is a prime number	number.*no .*divisors.*itself
+lfb000235	factoid	what does the earth revolve around	Sun
+lfb000236	factoid	How far is the Andromeda galaxy?	2\.5 million light\-years
+lfb000237	factoid	What city named it's largest airport after a war hero and the second largest after a battle?	Chicago
+lfb000238	factoid	the highest mountain of czech republic	Snow Mountain \(Sn\ě\žka \- 1602 m\) which is also the highest mountain in the Czech republic
+lfb000239	factoid	the color of lemons	yellow
+lfb000240	factoid	Why the moon is sometimes red?	Harvest Moon
+lfb000241	factoid	When will be next friday the 13th?	13th May 2016
+lfb000242	factoid	who is the coder behind the Atari ST game called Krypton Egg?	Alexandre Kral
+lfb000243	factoid	Who is Jan Sverak?	director
+lfb000244	factoid	who wrote sherlock holmes	Arthur Conan Doyle
+lfb000245	factoid	who wrote the savage detectives	Roberto Bola\ño
+lfb000246	factoid	Which planet is the biggest in our Solar System?	Jupiter
+lfb000247	factoid	Which city stands near the mouth of the Yarra River?	Melbourne
+lfb000248	factoid	Animals that eat both plant matter and meat are referred to as	omnivores
+lfb000249	factoid	How long is Vltava river?	430 km|430 kilometres|270 mi
+lfb000250	factoid	Who is Czech president now?	Milo\š Zeman
+lfb000251	factoid	When was the iPhone 6s released?	September 12th 2015
+lfb000252	factoid	Who won oscar for best male actor in 2014	Matthew McConaughey
+lfb000253	factoid	longest river	the Nile
+lfb000254	factoid	who was the first king of england?	Alfred the Great\, King of England\, 871\-901|Alfred the Great
+lfb000255	factoid	Where does Carrot live?	Ankh\-Morpork
+lfb000256	factoid	When did Larry Wall invented the language that has a camel in the book?	1987
+lfb000257	factoid	When has Czech Republic been established?	1993|1993\-01\-01
+lfb000258	factoid	who is the acctress of dana in the cabin in the woods?	Kristen Connolly
+lfb000259	factoid	which languages are spoken in switzerland?	French|Romansh|German|Italian
+lfb000260	factoid	Who is India's prime minister?	Narendra Modi
+lfb000261	factoid	When was Mustafa Kemal Ataturk born?	1881
+lfb000262	factoid	who published bad monkeys?	Harper
+lfb000263	factoid	who founded apple?	Jobs|Wozniak
+lfb000264	factoid	who discover the Theory of relativity	Einstein
+lfb000265	factoid	Who wrote Harry Potter	J\. K\. Rowling
+lfb000266	factoid	Who is the CEO of Apple Inc.?	Tim Cook
+lfb000267	factoid	Who is professor Krylov ?	 a businessman|a naval architect|a mathematician|an admiral|a businessman|a professor
+lfb000268	factoid	How many star wars movies were aired?	7|seven
+lfb000269	factoid	What is the capital of England?	London
+lfb000270	factoid	When was toy story released?	1995
+lfb000271	factoid	Who wrote the book Walden?	Henry David Thoreau|Thoreau
+lfb000272	factoid	What is water made of?	water molecules
+lfb000273	factoid	Who wrote Paradise Lost?	Milton
+lfb000274	factoid	who is the president of usa	Barack Obama
+lfb000275	factoid	who is the founder of Tesla?	Elon Musk
+lfb000276	factoid	What is the smallest particle of an element?	an atom
+lfb000277	factoid	who was Dana in the cabin in the woods?	Kristen Connolly
+lfb000278	factoid	Where is the museum Louvre	Paris|France
+lfb000279	factoid	where is Czech Republic	Europe|Central Europe
+lfb000280	factoid	Who is Boko Haram	militant\.\*Islamist movement\.\*Nigeria
+lfb000281	factoid	Who is presidet of Germany	Joachim Gauck
+lfb000282	factoid	who is the current president of the united states?	Obama
+lfb000283	factoid	How to train a neural network?	backpropagation
+lfb000284	factoid	what is game of throne?	television series
+lfb000285	factoid	brad pitt	Actor
+lfb000286	factoid	When was A Tale of Two Cities published?	1859
+lfb000287	factoid	How many new words does a typical children learn each day?	2 new words a day|two|2
+lfb000288	factoid	Where did Boko Haram attack?	Nigeria
+lfb000289	factoid	who directed pirates of the carribean	Gore Verbinski|Verbinski
+lfb000290	factoid	which language is spoken in france?	French
