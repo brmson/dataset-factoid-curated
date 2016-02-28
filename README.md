@@ -29,7 +29,7 @@ and consists of three files:
     do not use our curated data.
 
 (Some small portion of questions may be left out of the splits; these are
-left reserved for future use, e.g. as part of a validation dataset.)
+included in large2470-train, though.)
 
 Ideally, humans should be doing all stages of evaluation instead of just
 using regex matches, as time by time an unconcieved legitimate answer
